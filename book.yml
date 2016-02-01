@@ -1,0 +1,20 @@
+# General Config
+# ==============
+
+title: "Travessia na Floresta"
+author: "Ajahn Mudito"
+file_as: Mudito, Ajahn
+
+print_isbn: "978-1-78432-047-8"
+ebook_isbn: "000-0-000000-00-0"
+
+date: 2016-02-01
+
+cover_image: "cover.jpg"
+cover_credit: Cover photo offered by The Person
+
+publisher: "Amaravati Publications"
+publisher_logo: "publisher-logo.jpg"
+
+publisher_atag: "<a href='http://thepublisher.org/'>www.thepublisher.org</a>"
+book_atag: "<a href='http://thepublisher.org/thebookurl/'>www.thepublisher.org/thebookurl</a>"
