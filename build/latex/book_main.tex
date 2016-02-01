@@ -1,0 +1,109 @@
+\documentclass[
+  final,
+  pagePreset=largepage,
+  babelLanguage=british,
+  %webversion,
+]{anecdote}
+
+%\usepackage{mylayout}
+
+\usepackage{lipsum}
+\usepackage{longtable}
+
+%% Details of the book
+%% ===================
+
+\title{Travessia na Floresta}
+\subtitle{}
+\author{Ajahn Mudito}
+\publisher{Amaravati Publications}
+\date{2016-02-01}
+\editionInfo{}
+\ISBN{978-1-78432-047-8}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+% \hyphenation{}
+
+\begin{document}
+
+\ifwebversion
+\webcover{%
+\includegraphics[height=\paperheight]{./webcover.jpg}%
+}
+\fi
+
+
+\input{../.././manuscript/tex/titlepage.tex}
+
+\input{../.././manuscript/tex/copyright.tex}
+
+% Prefácio
+\input{../.././manuscript/tex/preface.tex}
+
+% Nota do tradutor
+\input{../.././manuscript/tex/nota-do-tradutor.tex}
+
+% Infância
+\input{../.././manuscript/tex/infancia.tex}
+
+% Vida como bhikkhu
+\input{../.././manuscript/tex/vida-como-bhikkhu.tex}
+
+% Conhecendo novas terras
+\input{../.././manuscript/tex/conhecendo-novas-terras.tex}
+
+% Vida na estrada
+\input{../.././manuscript/tex/vida-na-estrada.tex}
+
+% Luang Pu Man Bhūridatto
+\input{../.././manuscript/tex/luang-pu-man.tex}
+
+% Vencendo o medo de fantasmas
+\input{../.././manuscript/tex/vencendo-o-medo.tex}
+
+% Luang Pu Kinari
+\input{../.././manuscript/tex/luang-pu-kinari.tex}
+
+% De volta à estrada
+\input{../.././manuscript/tex/de-volta-a-estrada.tex}
+
+% O monge sem raiva
+\input{../.././manuscript/tex/o-monge-sem-raiva.tex}
+
+% Voltando para casa
+\input{../.././manuscript/tex/voltando-para-casa.tex}
+
+% Viagem à região central
+\input{../.././manuscript/tex/viagem-a-regiao-central.tex}
+
+% Estabelecendo Wat Nong Pah Pong
+\input{../.././manuscript/tex/estabelecendo-wat-nong-pah-pong.tex}
+
+% Lidando com obstáculos
+\input{../.././manuscript/tex/lidando-com-obstaculos.tex}
+
+% Treinamento nos primeiros anos
+\input{../.././manuscript/tex/treinamento-nos-primeiros-anos.tex}
+
+% Anos posteriores
+\input{../.././manuscript/tex/anos-posteriores.tex}
+
+% A chegada dos ocidentais
+\input{../.././manuscript/tex/a-chegada-dos-ocidentais.tex}
+
+% Divulgando o Dhamma no ocidente
+\input{../.././manuscript/tex/divulgando-o-dhamma-no-ocidente.tex}
+
+% Doença e morte
+\input{../.././manuscript/tex/doenca-e-morte.tex}
+
+% Glossário
+\input{../.././manuscript/tex/glossary.tex}
+
+\input{../.././manuscript/tex/copyright-details.tex}
+
+
+\end{document}
