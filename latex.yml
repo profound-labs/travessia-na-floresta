@@ -2,7 +2,7 @@ toc:
   - { insert: '\frontmatter' }
   - titlepage.tex
   - copyright.tex
-  - { insert: "\\cleartorecto\n\\tableofcontents" }
+  - { insert: "\\cleartorecto\n\\tableofcontents*" }
   - preface.tex
   - nota-do-tradutor.tex
   - { insert: "\\mainmatter\n\\book{\\thetitle}" }
