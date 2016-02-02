@@ -35,16 +35,23 @@
 }
 \fi
 
+\frontmatter
 
 \input{../.././manuscript/tex/titlepage.tex}
 
 \input{../.././manuscript/tex/copyright.tex}
+
+\cleartorecto
+\tableofcontents*
 
 % Prefácio
 \input{../.././manuscript/tex/preface.tex}
 
 % Nota do tradutor
 \input{../.././manuscript/tex/nota-do-tradutor.tex}
+
+\mainmatter
+\book{\thetitle}
 
 % Infância
 \input{../.././manuscript/tex/infancia.tex}
@@ -100,10 +107,11 @@
 % Doença e morte
 \input{../.././manuscript/tex/doenca-e-morte.tex}
 
+\backmatter
+
 % Glossário
 \input{../.././manuscript/tex/glossary.tex}
 
 \input{../.././manuscript/tex/copyright-details.tex}
-
 
 \end{document}
