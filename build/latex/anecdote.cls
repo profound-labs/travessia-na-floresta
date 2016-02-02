@@ -80,7 +80,7 @@
 
 % === Define colors ===
 
-\definecolor{textbody}{gray}{0.15}
+\definecolor{textbody}{gray}{0.1}
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
@@ -103,101 +103,58 @@
 
 % TODO: comment these out and define them below as \newfontfamily
 
-\newcommand\crimsonRomanFont{}
-\newcommand\crimsonRomanFontOldNum{}
-\newcommand\gentiumFont{}
-\newcommand\headerFont{}
-\newcommand\footFont{}
-\newcommand\pageNumFont{}
-\newcommand\partTitleFont{}
-\newcommand\chapterNameFont{}
-\newcommand\chapterTitleFont{}
-\newcommand\chapterNumberFont{}
-\newcommand\chapterAuthorFont{}
-\newcommand\chapterNoteFont{}
-\newcommand\sectionFont{}
-\newcommand\tocFont{}
-\newcommand\tocFontOldNum{}
+% TODO: are these set?
+%\newcommand\headerFont{}
+%\newcommand\pageNumFont{}
 
 % If -- dashes don't work for your font, try
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
-%% by filename:
+\setmainfont[
+  SmallCapsFont = Crimson Roman,
+  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
+  BoldFont = Gentium Book Basic Bold,
+]{Gentium}
 
-%\setmainfont[
-%  Path = {./fonts/},
-%  SmallCapsFont = Crimson-Roman.otf,
-%  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps },
-%  ItalicFont = GentiumPlus-I.ttf,
-%  BoldFont = GenBkBasB.ttf,
-%  BoldItalicFont = GenBkBasBI.ttf,
-%]{GentiumPlus-R.ttf}
-%
-%\newfontfamily\crimsonRomanFont[
-%  Path = {./fonts/},
-%  ItalicFont = Crimson-Italic.otf,
-%  BoldFont = Crimson-Semibold.otf,
-%  BoldItalicFont = Crimson-SemiboldItalic.otf,
-%]{Crimson-Roman.otf}
-%
-%\newfontfamily\crimsonRomanFontOldNum[
-%  Path = {./fonts/},
-%  Numbers = OldStyle,
-%]{Crimson-Roman.otf}
-%
-%\newfontfamily\gentiumFont[
-%  Path = {./fonts/},
-%]{GentiumPlus-R.ttf}
+\newfontfamily\crimsonRomanFont[
+  BoldFont = Crimson Semibold,
+  ItalicFont = Crimson Italic,
+]{Crimson Roman}
 
-%% or by name:
+\newfontfamily\crimsonRomanFontOldNum[
+  Numbers = OldStyle,
+]{Crimson Roman}
 
-%\setmainfont[
-%  SmallCapsFont = Crimson Roman,
-%  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps },
-%  BoldFont = Gentium Book Basic Bold,
-%]{Gentium}
-
-%\newfontfamily\crimsonRomanFont[
-%  BoldFont = Crimson Semibold,
-%  ItalicFont = Crimson Italic,
-%]{Crimson Roman}
-%\newfontfamily\crimsonRomanFontOldNum[
-%  Numbers = OldStyle,
-%]{Crimson Roman}
-%\newfontfamily\gentiumFont{Gentium}
+\newfontfamily\gentiumFont{Gentium}
 
 % header and footer
 
-%% by filename:
-
-%\newfontfamily\footFont[
-%  Path = {./fonts/},
-%  %Renderer = Basic,
-%]{Crimson-Roman.otf}
-
-%% or by name:
-
-%\newfontfamily\footFont[Renderer = Basic]{Shaker Pali}
+\newfontfamily\footFont[Renderer = Basic]{Shaker Pali}
 
 \newcommand{\footSize}
   {\@setfontsize\footSize{9}{9}}
 
 % chapter
 
-%\newfontfamily\partTitleFont[
-%  ItalicFont = Shaker 2 Light Italic,
-%  %Renderer = Basic,
-%]{Crimson Roman}
-%
-%\newfontfamily\chapterNameFont{Crimson Roman}
-%\newfontfamily\chapterTitleFont{Crimson Roman}
-%\newfontfamily\chapterNumberFont{Crimson Roman}
-%\newfontfamily\chapterAuthorFont{Crimson Roman}
-%\newfontfamily\chapterNoteFont[
-%  BoldFont = Crimson Semibold,
-%  ItalicFont = Crimson Italic,
-%]{Crimson Roman}
+\newfontfamily\partTitleFont[
+  ItalicFont = Shaker 2 Light Italic,
+  Renderer = Basic,
+]{Crimson Roman}
+
+\newfontfamily\chapterNameFont{Crimson Roman}
+\newfontfamily\chapterTitleFont{Crimson Roman}
+\newfontfamily\chapterNumberFont{Crimson Roman}
+\newfontfamily\chapterAuthorFont{Crimson Roman}
+\newfontfamily\chapterNoteFont[
+  BoldFont = Crimson Semibold,
+  ItalicFont = Crimson Italic,
+]{Crimson Roman}
+
+% toc
+
+\newfontfamily\tocFont{Crimson Roman}
+\newfontfamily\tocFontOldNum[Numbers = OldStyle]{Crimson Roman}
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -220,6 +177,13 @@
 %  BoldFont = Crimson Semibold,
 %  ItalicFont = Crimson Italic,
 %]{Crimson Roman}
+
+% foreign language wrappers
+
+\newfontfamily\thaiFont{Kinnari}
+
+\newcommand*\thai[1]{{\thaiFont #1}}
+
 
 \newcommand{\sectionSize}
   {\@setfontsize\sectionSize{13}{15}}
@@ -274,8 +238,7 @@
 % memoir's more allowing penalties
 \midsloppy
 
-% FIXME: only if babel is english or british
-\renewcommand\britishhyphenmins{{3}{3}}
+%\renewcommand\britishhyphenmins{{3}{3}}
 
 % The lastparline or the parfillskip solution is overkill in many
 % places. It is optimal for larger paragraphs, but creates too much
@@ -440,6 +403,19 @@ philo-sophical munindo amaravati thai-land}
 \end{minipage}}}
 \fi
 \clearpage
+}
+
+% glossary as item list
+
+\newcommand*{\labelFmt}[2]{\normalfont\textbf{#1}, \textit{#2}.}
+
+\newenvironment{glossarydescription}%
+               {\list{}{\labelwidth\z@ \itemindent-\leftmargin
+                        \let\makelabel\glossaryDescriptionlabel}}%
+               {\endlist}
+\newcommand*{\glossaryDescriptionlabel}[1]{%
+  \hspace\labelsep
+  \labelFmt #1%
 }
 
 % === Renewing package macros ===
@@ -1262,6 +1238,10 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
+
+% alias the pagestyles into semantic names, "where it is used"
+
+\aliaspagestyle{normalpage}{bottomcorner}
 
 % === Packages to be loaded LAST ===
 
