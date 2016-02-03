@@ -1,6 +1,8 @@
 Travessia na Floresta
 =====================
 
+*A história de vida e luta por iluminação espiritual de Ajahn Chah (Prah Bodhiññā Thera)*
+
 By Ajahn Mudito
 
 Paperback status: **IN PROGRESS**  
