@@ -75,12 +75,13 @@
 \RequirePackage{ifthen}
 \RequirePackage{titletoc}
 \RequirePackage{enumitem}
+\RequirePackage{xcoffins}
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
 
 % === Define colors ===
 
-\definecolor{textbody}{gray}{0.1}
+\definecolor{textbody}{gray}{0.1}% 85% is too light when produced by some printers
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
@@ -98,14 +99,6 @@
 
 \RequirePackage{fontspec}
 \defaultfontfeatures{Ligatures={TeX}}
-
-% Dummy font commands to use system defaults instead of custom fonts
-
-% TODO: comment these out and define them below as \newfontfamily
-
-% TODO: are these set?
-%\newcommand\headerFont{}
-%\newcommand\pageNumFont{}
 
 % If -- dashes don't work for your font, try
 % Renderer = Basic
@@ -127,25 +120,25 @@
 ]{Crimson Roman}
 
 \newfontfamily\gentiumFont{Gentium}
+\newfontfamily\alegreyaSansLightFont[
+  ItalicFont = Alegreya Sans Light Italic,
+]{Alegreya Sans Light}
 
 % header and footer
 
-\newfontfamily\footFont[Renderer = Basic]{Shaker Pali}
-
-\newcommand{\footSize}
-  {\@setfontsize\footSize{9}{9}}
+\newcommand\headerFont\alegreyaSansLightFont
+\newcommand\footerFont\alegreyaSansLightFont
+\newcommand\pageNumFont\alegreyaSansLightFont
 
 % chapter
 
-\newfontfamily\partTitleFont[
-  ItalicFont = Shaker 2 Light Italic,
-  Renderer = Basic,
-]{Crimson Roman}
+\newcommand\partTitleFont\alegreyaSansLightFont
 
-\newfontfamily\chapterNameFont{Crimson Roman}
-\newfontfamily\chapterTitleFont{Crimson Roman}
-\newfontfamily\chapterNumberFont{Crimson Roman}
-\newfontfamily\chapterAuthorFont{Crimson Roman}
+\newcommand\chapterNameFont\alegreyaSansLightFont
+\newcommand\chapterTitleFont\alegreyaSansLightFont
+\newcommand\chapterNumberFont\alegreyaSansLightFont
+\newcommand\chapterAuthorFont\alegreyaSansLightFont
+
 \newfontfamily\chapterNoteFont[
   BoldFont = Crimson Semibold,
   ItalicFont = Crimson Italic,
@@ -161,15 +154,19 @@
 \newcommand{\chapterNameSize}
   {\@setfontsize\chapterNameSize{22}{24}}
 \newcommand{\chapterNumberSize}
-  {\@setfontsize\chapterNumberSize{22}{24}}
+  {\@setfontsize\chapterNumberSize{40}{40}}
 \newcommand{\chapterTitleSize}
-  {\@setfontsize\chapterTitleSize{13}{16.5}}
+  {\@setfontsize\chapterTitleSize{18}{20}}
 \newcommand{\chapterAuthorSize}
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
   {\@setfontsize\chapterNoteSize{10}{13}}
-\newcommand{\pageNumSize}
-  {\@setfontsize\pageNumSize{10}{12}}
+\newcommand{\footerSize}
+  {\@setfontsize\footerSize{10}{10}}
+\newcommand{\headerSize}
+  {\@setfontsize\headerSize{10}{10}}
+%\newcommand{\pageNumSize}
+%  {\@setfontsize\pageNumSize{10}{12}}
 
 % section
 
@@ -481,30 +478,47 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{bottomcorner}
 \makeevenhead{bottomcorner}{}{}{}
 \makeevenfoot{bottomcorner}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \thepage \sepline \leftmark%
 }{}{}
 \makeoddhead{bottomcorner}{}{}{}
 \makeoddfoot{bottomcorner}{}{}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \rightmark \sepline \thepage%
+}
+
+\makepagestyle{altTopBottomCorner}
+\makeevenhead{altTopBottomCorner}{%
+  \headerFont\headerSize%
+  \itshape\thepage \hspace*{1em} \thetitle%
+}{}{}
+\makeevenfoot{altTopBottomCorner}{}{}{}
+\makeoddhead{altTopBottomCorner}{}{}{}
+\makeoddfoot{altTopBottomCorner}{}{}{%
+  \footerFont\footerSize%
+  \itshape\rightmark \hspace*{1em} \thepage%
+}
+
+\makepsmarks{altTopBottomCorner}{%
+  \nouppercaseheads%
+  \createmark{chapter}{right}{shownumber}{\@chapapp\ }{. \ }%
 }
 
 \makepagestyle{bottomcenter}
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \thepage%
 }{}
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
-  \footFont\footSize%
+  \footerFont\footerSize%
   \thepage%
 }{}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{bottomcorner}
+\aliaspagestyle{normalpage}{altTopBottomCorner}
 \aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{afterpart}{empty}
@@ -834,6 +848,100 @@ philo-sophical munindo amaravati thai-land}
     \fi%
   }
 }
+
+\newlength\chapterNumberWidth
+\newlength\chapterTitleYOffset
+
+\newlength\offsetAmount
+\setlength{\offsetAmount}{4pt}%
+
+\newif\ifthistitleoffset
+
+\NewCoffin\ChapterWrapBox
+\NewCoffin\ChapterNumberBox
+\NewCoffin\ChapterTitleBox
+
+\newcommand\titlealign{}
+
+\makechapterstyle{shedir}{
+  \chapterstyle{default}
+  \setlength{\beforechapskip}{30mm}
+  \setlength{\chapterTitleLeftSkip}{0pt}
+  \renewcommand\printchaptername{}
+  \renewcommand\chapternamenum{}
+  \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
+  \if@mainmatter
+    \setlength{\chapterNumberWidth}{\widthof{\chapnumfont 99.} + 10pt}
+  \else
+    \setlength{\chapterNumberWidth}{0pt}
+  \fi
+  \renewcommand\printchapternum{}
+  \renewcommand\afterchapternum{}
+  \renewcommand\printchapternonum{}
+  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
+  \renewcommand\titlealign{\if@mainmatter \raggedright \else \centering \fi}
+  \renewcommand*\printchaptertitle[1]{%
+    \SetHorizontalCoffin\ChapterNumberBox{%
+      \parbox{\chapterNumberWidth}{%
+        \if@mainmatter
+          \chapnumfont\color{chapternum}%
+          \hspace*{\chapterTitleLeftSkip}\thechapter .%
+        \else
+          \mbox{}%
+        \fi
+      }%
+    }%
+    \SetHorizontalCoffin\ChapterTitleBox{%
+      \parbox{\linewidth - \chapterTitleLeftSkip - \chapterNumberWidth}{%
+        \titlealign
+        \chaptitlefont\color{chaptertitle}%
+        \textls*{\MakeUppercase{##1}}%
+        \ifchapterfootnote%
+          \hspace*{2pt}\theChapterFootnoteMark%
+        \fi%
+        \ifchapterauthor%
+          \vskip 0.5\onelineskip%
+          \chapterAuthorFmt{\theChapterAuthor}%
+          \global\chapterauthorfalse%
+        \fi%
+        \ifchapternote%
+          \vskip 0.5\onelineskip%
+          \chapterNoteFmt{\theChapterNote}%
+          \global\chapternotefalse%
+        \fi%
+        \ifchapterfootnote%
+          \theChapterFootnoteText%
+          \global\chapterfootnotefalse%
+        \fi%
+      }%
+    }%
+    \ifthistitleoffset
+      \setlength{\chapterTitleYOffset}{\offsetAmount}%
+    \else
+      \setlength{\chapterTitleYOffset}{0pt}%
+    \fi
+    \JoinCoffins\ChapterNumberBox[r,t]\ChapterTitleBox[l,t](0pt, \chapterTitleYOffset)%
+    \global\thistitleoffsetfalse
+    \JoinCoffins\ChapterWrapBox\ChapterNumberBox%
+    %
+    \raggedright\hspace*{\chapterTitleLeftSkip}%
+    \TypesetCoffin\ChapterWrapBox%
+  }
+  \setlength{\afterchapskip}{2.5\onelineskip}
+  \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
+}
+
+\makechapterstyle{shedir-high}{
+  \chapterstyle{shedir}
+  \setlength{\beforechapskip}{0pt}
+}
+
+\makechapterstyle{shedir-toc}{
+  \chapterstyle{shedir-high}
+  \setlength{\chapterTitleLeftSkip}{6pc}
+  \renewcommand\titlealign{\raggedright}
+}
+
 
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
@@ -1238,10 +1346,6 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
-
-% alias the pagestyles into semantic names, "where it is used"
-
-\aliaspagestyle{normalpage}{bottomcorner}
 
 % === Packages to be loaded LAST ===
 

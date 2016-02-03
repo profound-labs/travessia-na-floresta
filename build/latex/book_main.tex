@@ -5,10 +5,7 @@
   %webversion,
 ]{anecdote}
 
-%\usepackage{mylayout}
-
-\usepackage{lipsum}
-\usepackage{longtable}
+\usepackage{local}
 
 %% Details of the book
 %% ===================
@@ -41,8 +38,12 @@
 
 \input{../.././manuscript/tex/copyright.tex}
 
+\chapterstyle{shedir-toc}
+
 \cleartorecto
 \tableofcontents*
+
+\chapterstyle{shedir-high}
 
 % Prefácio
 \input{../.././manuscript/tex/preface.tex}
