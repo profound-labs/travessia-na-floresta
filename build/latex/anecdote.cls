@@ -108,6 +108,7 @@
   SmallCapsFont = Crimson Roman,
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   BoldFont = Gentium Book Basic Bold,
+  BoldItalicFont = Gentium Book Basic Bold Italic,
 ]{Gentium}
 
 \newfontfamily\crimsonRomanFont[
@@ -363,6 +364,11 @@ philo-sophical munindo amaravati thai-land}
   partopsep=0pt,
 ]%
 }{\end{itemize}}
+
+\newcommand\speaker[1]{%
+  % The hangindent only works with alternating speakers.
+  %\par\hangindent=1pc%
+  {\color[gray]{0.25}\crimsonRomanFont\scshape\MakeLowercase{#1}}\quad}
 
 \newlength\qw
 \setlength\qw{17pt}% same as parindent for smallpage
@@ -939,6 +945,7 @@ philo-sophical munindo amaravati thai-land}
 \makechapterstyle{shedir-toc}{
   \chapterstyle{shedir-high}
   \setlength{\chapterTitleLeftSkip}{6pc}
+  \setlength{\afterchapskip}{1.5\onelineskip}
   \renewcommand\titlealign{\raggedright}
 }
 

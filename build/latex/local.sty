@@ -6,3 +6,12 @@
 \renewcommand\mainmatterChapterStyle{\chapterstyle{shedir}}
 \renewcommand\appendixChapterStyle{\chapterstyle{shedir-high}}
 \renewcommand\backmatterChapterStyle{\chapterstyle{shedir-high}}
+
+\addtodef{\mainmatter}{}{%
+  \addtocontents{toc}{\addvspace{-5pt}}%
+  \addtocontents{toc}{\protect\enlargethispage{\baselineskip}}%
+}
+
+\addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{-5pt}}%
+}
