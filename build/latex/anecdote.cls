@@ -140,15 +140,15 @@
 \newcommand\chapterNumberFont\alegreyaSansLightFont
 \newcommand\chapterAuthorFont\alegreyaSansLightFont
 
-\newfontfamily\chapterNoteFont[
-  BoldFont = Crimson Semibold,
-  ItalicFont = Crimson Italic,
-]{Crimson Roman}
+\newcommand\chapterNoteFont\alegreyaSansLightFont
 
 % toc
 
-\newfontfamily\tocFont{Crimson Roman}
-\newfontfamily\tocFontOldNum[Numbers = OldStyle]{Crimson Roman}
+\newcommand\tocFont\alegreyaSansLightFont
+\newfontfamily\tocFontOldNum[
+  ItalicFont = Alegreya Sans Light Italic,
+  Numbers = OldStyle,
+]{Alegreya Sans Light}
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -549,7 +549,7 @@ philo-sophical munindo amaravati thai-land}
   \ifnum #1>\c@tocdepth \else
     %\vskip \z@ \@plus.2\p@
     \vspace*{-3pt}
-    {\footnotesize\itshape\crimsonRomanFont
+    {\footnotesize\itshape\tocFont
      \leftskip #2\relax
      \rightskip \@tocrmarg
      \advance\rightskip #3\relax
@@ -601,7 +601,7 @@ philo-sophical munindo amaravati thai-land}
   \contentsmargin{0pt}%
   \makebox[0pt][r]{%
     {\color{tocleftside}%
-    \chaptername~{\tocFontOldNum\thecontentslabel}}%
+    {\tocFontOldNum\thecontentslabel}}%
     \hspace*{0.5em}$\cdot$\hspace*{0.5em}%
   }%
 }
