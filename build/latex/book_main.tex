@@ -2,6 +2,7 @@
   final,
   pagePreset=largepage,
   babelLanguage=portuguese,
+  %showtrims,% necessary for print b/c of the images.
   %webversion,
 ]{anecdote}
 
@@ -60,11 +61,8 @@
 % TODO: style
 \input{../../manuscript/tex/snp-319.tex}
 
-% TODO: move to recto
-% TODO: image size and position
-{\thispagestyle{empty}
-\includegraphics[width=\linewidth]{sitting-in-kuti}
-}
+\cleartorecto\thispagestyle{empty}\mbox{}
+\photoSideBleed{sitting-in-kuti_crop}
 
 % Infância
 \input{../.././manuscript/tex/infancia.tex}
@@ -99,11 +97,8 @@
 % Viagem à região central
 \input{../.././manuscript/tex/viagem-a-regiao-central.tex}
 
-% TODO: move to recto
-% TODO: image size and position
-{\cleartorecto\thispagestyle{empty}
-\includegraphics[width=\linewidth]{almsround}
-}
+\cleartorecto\thispagestyle{empty}\mbox{}
+\photoSideBleed{almsround}
 
 % Estabelecendo Wat Nong Pah Pong
 \input{../.././manuscript/tex/estabelecendo-wat-nong-pah-pong.tex}
@@ -117,11 +112,8 @@
 % Anos posteriores
 \input{../.././manuscript/tex/anos-posteriores.tex}
 
-% TODO: move to recto
-% TODO: image size and position
-{\cleartorecto\thispagestyle{empty}
-\includegraphics[width=\linewidth]{sitting-on-bench}
-}
+\cleartorecto\thispagestyle{empty}\mbox{}
+\photoSideBleed{sitting-on-bench}
 
 % A chegada dos ocidentais
 \input{../.././manuscript/tex/a-chegada-dos-ocidentais.tex}
@@ -134,11 +126,8 @@
 
 \backmatter
 
-% TODO: move to recto
-% TODO: image size and position
-{\cleartorecto\thispagestyle{empty}
-\includegraphics[width=\linewidth]{profile}
-}
+\cleartorecto\thispagestyle{empty}\mbox{}
+\photoSideBleed{profile_crop}
 
 % Glossário
 \input{../.././manuscript/tex/glossary.tex}

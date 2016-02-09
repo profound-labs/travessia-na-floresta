@@ -67,6 +67,7 @@
 \RequirePackage{soul}
 \RequirePackage{textcomp}
 \RequirePackage[cmyk]{xcolor}
+\RequirePackage{xcoffins}
 \RequirePackage{graphicx}
 % Add your \graphicspath declaration to your local style.
 \RequirePackage{eso-pic}
@@ -75,13 +76,12 @@
 \RequirePackage{ifthen}
 \RequirePackage{titletoc}
 \RequirePackage{enumitem}
-\RequirePackage{xcoffins}
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
 
 % === Define colors ===
 
-\definecolor{textbody}{gray}{0.1}% 85% is too light when produced by some printers
+\definecolor{textbody}{gray}{0.1}% 0.1 (90%) is safe. 85% is too light when produced by some printers
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
@@ -214,7 +214,7 @@
   urlcolor=link
 }
 \else
-% Desktop version: link colors to text color, so that it doesn't
+% Print version: link colors to text color, so that it doesn't
 % interfere with printing, but can still test is link targets work.
 \hypersetup{
   colorlinks=true,
@@ -407,6 +407,25 @@ philo-sophical munindo amaravati thai-land}
 \fi
 \clearpage
 }
+
+\newcommand\photoFullBleed[1]{%
+  \AddToShipoutPictureFG*{%
+    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+      \includegraphics[height={\paperheight + 6mm}]{#1}%
+    }%
+  }%
+}
+
+\newcommand\photoSideBleed[1]{%
+  \AddToShipoutPictureFG*{%
+    \put(\LenToUnit{-3mm},\LenToUnit{0mm}){%
+      \begin{minipage}[b][\paperheight][c]{\paperwidth + 6mm}%
+        \includegraphics[width={\paperwidth + 6mm}]{#1}%
+      \end{minipage}%
+    }%
+  }%
+}
+
 
 % glossary as item list
 
@@ -1000,6 +1019,11 @@ philo-sophical munindo amaravati thai-land}
 % m = text width
 % d = text height
 
+\newlength\BOOK@paperHeight
+\newlength\BOOK@paperWidth
+\def\BOOK@apt{}
+\def\BOOK@bpt{}
+
 \ifthenelse{\equal{\BOOK@pagePreset}{largepage}}{
 
   % Large page size
@@ -1037,9 +1061,24 @@ philo-sophical munindo amaravati thai-land}
 
   % === setup page layout ===
 
-  \setstocksize{9in}{6in}
-  \settrimmedsize{\stockheight}{\stockwidth}{*}
-  \settrims{0pt}{0pt}
+  \setlength{\BOOK@paperHeight}{9in}
+  \setlength{\BOOK@paperWidth}{6in}
+
+  \ifshowtrims
+    \stockaiv% use A4 paper size to show trims
+    \setlength{\paperheight}{\BOOK@paperHeight}
+    \setlength{\paperwidth}{\BOOK@paperWidth}
+    \trimXmarks
+    \trimLmarks
+    \quarkmarks
+    \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+    \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+  \else\relax
+    \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+    \settrimmedsize{\stockheight}{\stockwidth}{*}
+    \settrims{0pt}{0pt}
+  \fi
+
   % It won't be exactly 33 lines because of the parskip,
   % but close enough for our purpose.
   \settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
