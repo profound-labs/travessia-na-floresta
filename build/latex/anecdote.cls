@@ -192,7 +192,7 @@
   {\@setfontsize\smaller{9}{11}}
 
 \newcommand{\copyrightsize}
-  {\@setfontsize\copyrightsize{10}{12}}
+  {\@setfontsize\copyrightsize{9}{11}}
 
 % === microtype ===
 
