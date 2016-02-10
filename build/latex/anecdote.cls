@@ -192,12 +192,12 @@
   {\@setfontsize\smaller{9}{11}}
 
 \newcommand{\copyrightsize}
-  {\@setfontsize\smaller{9}{11}}
+  {\@setfontsize\copyrightsize{10}{12}}
 
 % === microtype ===
 
 \RequirePackage[final,babel=true]{microtype}
-\SetTracking[spacing={500,100,}]{encoding=*, family=chapterTitleFont}{40}
+\SetTracking[spacing={350,100,}]{encoding=*, family=Alegreya Sans Light}{40}
 
 % === hyperref ===
 
@@ -269,7 +269,9 @@
 \exhyphenpenalty=50
 \doublehyphendemerits=900
 %\finalhyphendemerits=5000 % default is 5000
-\brokenpenalty=990
+
+% It is more effective to \mbox{...} the words to avoid hyphenation.
+\brokenpenalty=5000 % penalty for page break after a hyphenated line
 
 \RequirePackage[defaultlines=2,all]{nowidow}
 
@@ -307,7 +309,10 @@ philo-sophical munindo amaravati thai-land}
 
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
-% Using \textls letterspacing with microtype instead, because soul swallows accented characters at the end of words.
+
+% Use \textls letterspacing with microtype instead, because soul swallows
+% accented characters at the end of words.
+
 %\sodef\soChapter{}{.06em}{.4em plus.1em}{.1em plus.1em minus.1em}
 
 % === Custom commands and environments ===

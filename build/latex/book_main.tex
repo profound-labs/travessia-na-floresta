@@ -8,6 +8,10 @@
 
 \usepackage{local}
 
+% TODO: check Sangha Words
+% FIXME: Nikaya
+% FIXME: ``` '''
+
 %% Details of the book
 %% ===================
 
@@ -52,17 +56,13 @@
 % Nota do tradutor
 \input{../.././manuscript/tex/nota-do-tradutor.tex}
 
-\mainmatter
-
-% TODO: add book page without toc entry
-
-%\book{\thetitle}
-
-% TODO: style
-\input{../../manuscript/tex/snp-319.tex}
+\cleartoverso\thispagestyle{empty}
+\input{../../manuscript/tex/quote-snp-319.tex}
 
 \cleartorecto\thispagestyle{empty}\mbox{}
-\photoSideBleed{sitting-in-kuti_crop}
+\photoSideBleed{sitting-in-kuti-crop-2}
+
+\mainmatter
 
 % Infância
 \input{../.././manuscript/tex/infancia.tex}
@@ -97,7 +97,7 @@
 % Viagem à região central
 \input{../.././manuscript/tex/viagem-a-regiao-central.tex}
 
-\cleartorecto\thispagestyle{empty}\mbox{}
+\cleartoverso\thispagestyle{empty}\mbox{}
 \photoSideBleed{almsround}
 
 % Estabelecendo Wat Nong Pah Pong
@@ -112,7 +112,7 @@
 % Anos posteriores
 \input{../.././manuscript/tex/anos-posteriores.tex}
 
-\cleartorecto\thispagestyle{empty}\mbox{}
+\cleartoverso\thispagestyle{empty}\mbox{}
 \photoSideBleed{sitting-on-bench}
 
 % A chegada dos ocidentais
@@ -127,11 +127,13 @@
 \backmatter
 
 \cleartorecto\thispagestyle{empty}\mbox{}
-\photoSideBleed{profile_crop}
+\photoSideBleed{profile-crop-2}
 
 % Glossário
 \input{../.././manuscript/tex/glossary.tex}
 
 \input{../.././manuscript/tex/copyright-details.tex}
+
+\newpage\thispagestyle{empty}\mbox{}
 
 \end{document}
