@@ -1,7 +1,7 @@
 Travessia na Floresta
 =====================
 
-*A história de vida e luta por iluminação espiritual de Ajahn Chah (Prah Bodhiññā Thera)*
+*A história de vida e luta por iluminação espiritual de Ajahn Chah (Prah Bodhiñāṇa Thera)*
 
 By Ajahn Mudito
 
