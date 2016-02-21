@@ -5,8 +5,8 @@ Travessia na Floresta
 
 By Ajahn Mudito
 
-Paperback status: **IN PROGRESS**  
-Ebook status: **N/A**
+Paperback status: **COMPLETED**  
+Ebook status: **COMPLETED**
 
 First edition
 
