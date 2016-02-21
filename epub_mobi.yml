@@ -11,20 +11,39 @@ bookid: "TravessiaNaFlorestaBookId"
 #show_chapter_name: true
 #chapter_number_format: roman
 
+# TODO: PT titles
+
+# TODO: images
+
 toc:
   - { the_matter: frontmatter }
-  - { target: epub, title: "Cover", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
+  - { target: epub, title: "Capa", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
   - { target: epub, title: "Title Page", src: 'titlepage.xhtml.erb', type: title-page }
-  - { target: epub, title: "Contents", src: 'toc.xhtml.erb', type: toc }
+  - { target: epub, title: "Conteúdo", src: 'toc.xhtml.erb', type: toc }
   - preface.md
+  - nota-do-tradutor.md
+  - quote-snp-319.md
   - { target: mobi, title: "Title Page", src: 'titlepage.xhtml.erb', type: text, class: title-page }
-  - { target: mobi, title: "Contents", src: 'toc.xhtml.erb', type: toc }
+  - { target: mobi, title: "Conteúdo", src: 'toc.xhtml.erb', type: toc }
   - { the_matter: mainmatter, section_number: 1 }
-  - like-a-boat.md
-  - nameless-labyrinth.markdown
-  - time-machine.markdown
-  - { section_name: "Appendix", section_number: 1 }
-  - further-comments.markdown
+  - infancia.md
+  - vida-como-bhikkhu.md
+  - conhecendo-novas-terras.md
+  - vida-na-estrada.md
+  - luang-pu-man.md
+  - vencendo-o-medo.md
+  - luang-pu-kinari.md
+  - de-volta-a-estrada.md
+  - o-monge-sem-raiva.md
+  - voltando-para-casa.md
+  - viagem-a-regiao-central.md
+  - estabelecendo-wat-nong-pah-pong.md
+  - lidando-com-obstaculos.md
+  - treinamento-nos-primeiros-anos.md
+  - anos-posteriores.md
+  - a-chegada-dos-ocidentais.md
+  - divulgando-o-dhamma-no-ocidente.md
+  - doenca-e-morte.md
   - { the_matter: backmatter }
   - glossary.md
   - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }

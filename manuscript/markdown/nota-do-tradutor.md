@@ -1,0 +1,73 @@
+Nota do tradutor
+================
+
+Com a data de comemoração do centenário de nascimento de Ajahn Chah se
+aproximando, meu professor, Luang Pó Piak, notou que ainda hoje não
+havia nenhum livro em língua ocidental que relatasse de forma concisa a
+história de vida de Ajahn Chah. A princípio ele me pediu que preparasse
+um texto em inglês, mas assim que terminei o primeiro manuscrito,
+deixei-o sob responsabilidade da sangha de Wat Pah Nanachat para que se
+encarregassem de produzir aquela versão do livro e então comecei a
+trabalhar na versão em português que você agora tem em mãos.
+
+Apesar de o primeiro rascunho ter sido composto em inglês, tomei o
+cuidado de retraduzir todas as citações do tailandês para garantir a
+maior fidelidade possível ao original. Também adaptei a grafia de nomes
+tailandeses à fonética portuguesa (nomes como Ajahn Mun e Luang Pu
+Kinaree foram escritos como Ajahn Man e Luang Pu Kinari). Um outro
+detalhe que vale a pena mencionar é a escolha de traduzir o termo
+*tudong* () como “peregrinação”. É necessário explicar que, diferente do
+que conhecemos no ocidente, no caso tailandês essa “peregrinação” nem
+sempre almeja ir a um local sagrado ou consiste em “pagar uma promessa”.
+Em geral se trata de um modo de vida: os monges simplesmente vivem como
+andarilhos, treinando a si mesmos a enfrentar todo tipo de dificuldades
+e buscando locais isolados e conducentes à prática de meditação.
+
+O livro não foi composto com o objetivo de ser um documento completo
+sobre a vida e obra de Ajahn Chah – a quantidade de histórias e
+ensinamentos disponíveis fariam a tarefa de compilar tal livro um
+trabalho verdadeiramente hercúleo – mas apenas dar uma boa noção de quem
+era Ajahn Chah e de como ele chegou a ser o grande mestre que todos
+conhecem hoje. A quem tem interesse em se aprofundar mais nos
+ensinamentos de Ajahn Chah, recomendo a leitura de “An Introduction to
+the Life and Teachings of Ajahn Chah”, escrita por Ajahn Amaro e também
+a coleção “The Collected Teachings of Ajahn Chah”, ambos disponíveis
+gratuitamente em *forestsanghapublications.org*. Até o presente momento,
+só existe uma compilação de ensinamentos de Ajahn Chah em português que
+tenha sido traduzida direta do tailandês, chamada “Darma da Floresta”,
+que também está disponível através da Forest Sangha Publications. Além
+disso, o site *dhammadafloresta.org* oferece uma quantidade grande de
+ensinamentos de Ajahn Chah, seus discípulos e outros mestres da tradição
+da floresta tailandesa, assim como links para mais fontes de
+informações.
+
+O público-alvo desse trabalho são pessoas que já têm algum conhecimento
+sobre budismo e mais especificamente a tradição Theravada da qual fazia
+parte Ajahn Chah, mas, ainda assim, incluí inúmeras notas explicativas e
+um glossário ao final do texto para auxiliar a compreensão dos termos
+mais difíceis.
+
+O texto aqui contido é uma compilação de várias fontes, mas
+principalmente do livro , escrito por Ajahn Jayasaro; outras fontes
+foram e , ambos escritos por Ajahn Mahā Amón Kemacitto; , por Mitsuo
+Shibaiashi; Still Forest Pool, por Jack Kornfield e Paul Breiter, No
+Worries, por Aruna Publications e diversas gravações de áudio e vídeo
+onde discípulos de Ajahn Chah contavam suas histórias com o mestre.
+
+Gostaria de agradecer a Ven. Gambhīro pela composição das edições
+impressa e eletrônica do livro e Carla Pedro Schiavetto, Luciano Tadeu e
+Ângelo de Vita por ajudarem na revisão do texto. Peço que quaisquer
+omissões ou erros contidos neste trabalho sejam de minha inteira
+responsabilidade, e que os méritos gerados aqui sejam de benefício aos
+que ajudaram na composição deste livro assim como a todos que têm
+respeito e reverência pela Aryia Sangha, cuja presença entre nós, ainda
+na época atual, é o verdadeiro testemunho de que os ensinamentos do
+Buddha jamais perderam sua validade ou eficácia para aqueles que de fato
+estejam dispostos a praticá-los com humildade, sinceridade e dedicação.
+
+Que todos possam estar livres de aflição e angústia. Que todos estejam
+sempre acompanhados de bons amigos. Que todos encontrem o caminho da paz
+e libertação.
+
+Anumodanā.\\
+Mudito Bhikkhu

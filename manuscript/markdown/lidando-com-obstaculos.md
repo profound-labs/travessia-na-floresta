@@ -1,0 +1,380 @@
+Lidando com obstáculos
+======================
+
+Falta de recursos e doenças não eram os únicos obstáculos que Luang Pó e
+seus discípulos tiveram que enfrentar. Apesar de estar estabelecendo um
+monastério em sua cidade natal, nos primeiros anos Ajahn Chah teve que
+lidar como todo tipo de problemas vindos de falta de comunicação,
+mal-entendidos e de pessoas da região imaginado coisas sozinhas, algo
+que é normal e ocorria tanto entre os leigos como entre a sangha
+monástica. Por exemplo, esta história que Luang Pó contou à comunidade
+leiga de um monastério que foi visitar:
+
+“… Eu fui viver em Wat Pah Pong – imaginem, no meu próprio vilarejo! – e
+fiz um bom trabalho cavando um poço na floresta. Pus um aviso que dizia
+‘Este poço é para uso exclusivo dos monges. Os leigos não estão
+autorizados a utilizá-lo.’ Ainda assim, nós tirávamos água e colocávamos
+num jarro grande para que os leigos pudessem usar. Mas as pessoas ainda
+reclamaram – o pior foi Pó Nu. Quando uma mulher lhe contou sobre o
+poço, ele prontamente exclamou: ‘Então não devemos beber água?!’ Ele foi
+com força total: ‘O quê?! De onde saíram esses monges? Por que decidiram
+que os leigos não podem beber água? Eles se deram a todo esse trabalho
+de estudar e virar monges e ainda se comportam desse jeito?! Eles por
+acaso não comem o que oferecemos como esmola ou de onde é que estão
+tirando comida, a ponto de decidirem que leigos não podem beber água?’
+
+Vejam! Isso é por não saber. Nós deixávamos eles beberem, mas
+normalmente os leigos que vinham ao monastério usavam o balde com o qual
+pegavam sapos, peixes, girinos e sabe-se lá mais o que, e usavam aquele
+mesmo balde para tirar água do poço, deixando-o sujo. Eu apenas não
+queria que fizessem isso, eu queria que bebessem, é por isso que
+tirávamos água e colocávamos num jarro à parte para eles. Mas a única
+coisa que diziam era: ‘Ele nos proibiu de beber água!’, eles não
+contavam a história inteira.
+
+Pó Nu ouviu sobre o poço e ficou com raiva, saiu de casa imediatamente
+para expulsar os monges: ‘Que tipo de monges são esses? De onde eles
+saíram? Eles vivem às custas dos leigos ou o quê?!’ Ele ouviu a história
+apenas uma vez, mas os pensamentos dele já foram lá na frente. Levou um
+bom tempo até conseguirmos nos entender, mas quando o fizemos, tornou-se
+meu discípulo…”
+
+De fato levou um bom tempo. Após a disputa sobre o poço, a raiva de Pó
+Nu diminuiu um pouco, mas ele não desistiu. De vez em quando vinha
+discutir com Luang Pó e, em um desses encontros, Ajahn Chah lhe fez um
+convite aberto:
+
+“Se tem algo que queira dizer, fale abertamente, não se preocupe comigo.
+Desse jeito vamos nos entender de uma vez por todas.”
+
+“Se eu falar de forma aberta, temo que Luang Pó vá ficar com raiva de
+mim, porque não falo da mesma maneira que as demais pessoas.”
+
+“Pode falar, não vou ficar bravo.”
+
+Na verdade, Pó Nu estava esperando justamente uma oportunidade como essa
+e pensou “Ele me deu permissão para falar abertamente. Agora, se eu
+falar de maneira bem incisiva e ele ficar com raiva, vou poder acusá-lo
+e dizer: ‘Que espécie de monge *kammatthāna* é você que não consegue
+aguentar nada?’”
+
+Então Pó Nu começou seu argumento: “Luang Pó uma vez disse que estou no
+caminho errado, mas eu digo que é você quem está no caminho errado, mais
+do que eu, porque todas as religiões são falsas, elas são apenas coisas
+que as pessoas inventam, convenções inventadas para enganar as pessoas.
+Todas as coisas neste mundo são apenas convenções. Por exemplo, um
+búfalo: inventamos um nome para ele, mas se quiséssemos poderíamos
+chamá-lo de ‘porco’, ele não iria reclamar… ‘Pessoa’, ‘animal’, tudo
+isso são apenas convenções, mesmo as religiões são apenas convenções.
+
+Por que você tem tanto medo de demérito e mau *kamma*, a ponto de ter
+que se esconder na floresta? Isso nada mais é que atormentar seu próprio
+corpo inutilmente. Eu não acredito que mérito e demérito existam
+realmente: eles provavelmente são histórias para enganar crianças. Vá
+embora e viva num monastério na cidade como os outros monges fazem! Ou,
+melhor ainda, largue a vida monástica – assim você vai sentir prazer e
+experimentar o gosto da sensualidade. Isso seria melhor do que viver
+atormentando a si mesmo dessa forma – eu não enxergo benefício algum. Eu
+penso assim. Qual sua opinião sobre tudo isso?”
+
+Após deixar Pó Nu falar à vontade para fisgar o interesse dele e após
+ter ouvido em silêncio por um bom tempo, Luang Pó disse: “O Buddha
+descartava pessoas que pensam como você, ele não conseguia ajudá-las.
+Elas são como flores de lótus que nascem afundadas na lama… Se você não
+acredita que mérito e demérito realmente existam, por que não tenta sair
+por aí roubando, furtando ou matando as pessoas só para ver o que
+acontece? Você vai ver como é.”
+
+“O quê? Como você pode me dizer para matar pessoas? Se eu fizesse isso,
+os parentes deles viriam atrás de mim para me matar ou eu acabaria na
+cadeia!”
+
+“Pois é. Você não vê que esse é o resultado do demérito?”
+
+Pó Nu vacilou quando posto diante dessa linha de raciocínio, mas para
+não dar o braço a torcer, insistiu: “Talvez demérito exista, mas e
+mérito? Luang Pó vive na floresta atormentando a si dessa forma, mas eu
+não vejo mérito algum nisso.”
+
+“Você pode pensar dessa forma se quiser, mas eu vou fazer uma
+comparação: se não há mérito e demérito e pratico de acordo com o
+*Dhamma-Vinaya*, não perco nada. Mas se de fato há mérito e demérito,
+então estou levando vantagem. Qual dos dois está em melhor situação: uma
+pessoa que está levando vantagem ou nem ganhando nem perdendo, ou uma
+pessoa que só está perdendo?
+
+Pó Nu começou a abrir sua mente um pouco e falou sobre seus verdadeiros
+sentimentos sobre esse assunto: “Essa história de mérito e demérito é
+algo sobre o qual penso a respeito já faz muito tempo, a ponto de ficar
+com dor de cabeça. Eu ainda não tenho certeza se acredito. Nenhum monge
+a quem perguntei conseguiu me explicar de uma forma que me fizesse
+entender. Mas consigo aceitar um pouco do raciocínio que você usou. Mas,
+supondo que mérito e demérito não existam, o que devo fazer?”
+
+“Faça o que quiser.”
+
+“Se não existir de verdade, após eu morrer vou voltar para te dar um
+chute, pode ser?”
+
+“Pode! Mas uma coisa importante é que você tem que abandonar o demérito
+e realmente praticar o mérito se quiser saber se mérito e demérito
+realmente existem.”
+
+“Nesse caso, que Luang Pó me ensine para que eu saiba como praticar
+mérito.”
+
+“Não é possível ajudar uma pessoa com pontos de vista incorretos como
+você. É uma perda de tempo.”
+
+Quando pressionado dessa forma por Ajahn Chah, Pó Nu respondeu com
+eloquência: “Quem neste mundo é o mais sábio de todos? O Buddha, não é?
+Você é um discípulo do Buddha, eu sou um discípulo de Māra.[^1] Se o
+Buddha é realmente tão especial, mas você é incapaz de me ensinar,
+mostra que na verdade o Buddha não é superior a Māra.”
+
+“Se é mesmo isso que você quer, então preste atenção, vou lhe dar um
+pouco de Dhamma e você pode levar, contemplar e tentar praticar para ver
+os resultados. Não importa se você acredita ou não, faça primeiro e veja
+o que acontece. Então, você não acredita no que os monges lhe disseram
+sobre o *Buddha Sāsanā*, correto?”
+
+“Sim, eu não quero acreditar em ninguém a não ser em mim mesmo.”
+
+“Se você não quer acreditar nos outros, também não deve acreditar em si
+mesmo. Você não é carpinteiro? Você alguma vez já cortou madeira
+errado?”
+
+“Sim, já ocorreu.”
+
+“É a mesma coisa. Você sempre entende as coisas certo, faz tudo certo ou
+às vezes entende mal, faz errado?”
+
+“Sim, eu já fiz coisas de maneira correta e errada.”
+
+“Nesse caso você ainda não pode confiar em si mesmo, porque você ainda
+se leva a fazer errado, falar errado, pensar errado…”
+
+Pó Nu ficou satisfeito com essa linha de raciocínio e pediu por
+conselho: “Como devo agir?”
+
+“Não fique duvidando demais e também não fale muito.”[^2]
+
+Após essa ocasião, onde quer que Pó Nu estivesse, esse conselho de Luang
+Pó Chah sempre ia junto. Mesmo que tentasse não pensar a respeito, ele
+não conseguia evitá-lo e quanto mais pensava a respeito, mais via a
+verdade no ensinamento de Ajahn Chah e do Buddha: “Tudo que o Buddha
+ensinou está de fato correto e não é possível contradizê-lo.”
+
+Mais tarde ele abandonou seu orgulho e arrogância, abandonou seu
+comportamento teimoso, tornou-se discípulo de Luang Pó e começou a
+observar os cinco preceitos com diligência, assim como praticar
+meditação. No final, se tornou uma nova pessoa, agradável e sempre
+prestativo em todas as atividades do monastério, com energia e
+dedicação.
+
+Outro problema que tiveram que enfrentar era o de pessoas que só queriam
+levar vantagem e obter o que desejavam. Algumas viam verduras e frutas
+crescendo na floresta do monastério e queriam colhê-los. No começo
+pediam uma ou duas; mais tarde começaram a roubar algumas e no final a
+ganância os sobrepujou e começaram a vir ao monastério carregando cestos
+para encher de frutas. Uns dos alvos preferidos eram os diversos pés de
+mamão do monastério, e inicialmente Luang Pó não fez nada, mas como os
+roubos começaram a ficar maiores e mais frequentes, ele pensou em uma
+estratégia para acabar com esse problema de uma vez por todas.
+
+Luang Pó mandou que um anagārika cortasse três moitas de espinhos e as
+escondesse ao lado do caminho. Normalmente os ladrões vinham por volta
+das sete ou oito da noite, que era o horário em que os monges estavam
+reunidos no salão principal realizando a *pūja* vespertina. Naquela
+noite, Luang Pó formou três grupos de monges: ele permaneceu com o
+primeiro perto do local onde os ladrões pegavam o mamão; o segundo ficou
+colocado a meio caminho e o terceiro perto de onde as moitas de espinhos
+estavam escondidas.
+
+Quando chegou o horário costumeiro, os ladrões chegaram pelo caminho que
+normalmente usavam, carregando seus cestos. Enquanto colhiam as frutas,
+Luang Pó deu o sinal para que os espinhos fossem retirados do
+esconderijo e fossem postos obstruindo o caminho que os ladrões usariam
+ao partir. Quando os cestos dos ladrões estavam quase cheios, Luang Pó
+limpou sua garganta, fazendo um barulho não muito alto porque não queria
+assustar demais os ladrões por medo de que eles saíssem correndo e
+deixassem para trás o produto do roubo. Quando ouviram o som, os ladrões
+se assustaram e se apressaram em colocar os cestos aos ombros e, meio
+andando, meio correndo, sem saberem o que os aguardava, foram direto ao
+local onde o segundo grupo de monges estava esperando. Nesse momento
+Luang Pó perguntou em voz alta:
+
+“Vocês viram alguém indo naquela direção?”
+
+“Onde? Onde? Cadê eles?”, os monges responderam falando alto e de forma
+ameaçadora.
+
+Os ladrões ouviram aquele barulho e ficaram ainda mais assustados.
+Começaram a correr pela floresta até que chegaram ao terceiro ponto, e
+os monges escondidos ali começaram a fazer barulho ao mesmo tempo em que
+o primeiro e segundo grupo chegavam por detrás, e o som de vozes ficou
+ainda mais alto, preenchendo a floresta inteira. Os ladrões ficaram
+brancos de medo, largaram seus cestos e correram direto para as moitas
+de espinhos que obstruíam o caminho. O primeiro deve ter se machucado
+mais do que o segundo, porque após ele mesmo ter caído de corpo inteiro
+em meio aos espinhos, ainda teve que aguentar o peso de seu parceiro que
+caiu por cima dele logo em seguida, empurrando-o ainda mais para dentro
+dos espinhos. Ambos ficaram completamente enroscados nas moitas,
+gritando de dor, mas graças ao desespero em que estavam, ainda
+conseguiram atravessar os galhos repletos de espinhos e desaparecer na
+noite.
+
+Luang Pó mandou que o anagārika colhesse os cestos. Ele sabia que seria
+fácil achar os ladrões, porque eles teriam que ficar de cama e pedir que
+seus familiares removessem os espinhos de seus corpos, um por um, tarefa
+que levaria no mínimo três dias para completar. Luang Pó chamou o chefe
+do vilarejo e disse: “Diga a eles que venham coletar seus cestos e as
+frutas; eles os perderam aqui. Diga que não precisam ter medo, podem vir
+e recolher os pertences deles comigo. Se demorarem muito, as frutas vão
+estragar e eles não vão conseguir vendê-las.”
+
+Quando um dos ladrões veio se encontrar com Luang Pó, ao invés de lhe
+dar uma bronca, ele lhe ensinou com bondade: “Não faça isso novamente.
+Essas frutas que você roubou conseguem alimentá-lo por no máximo um ou
+dois dias. Vá procurar uma profissão honesta e dessa forma você será um
+bom exemplo para seus filhos.”, e desse dia em diante não houve mais
+roubos.
+
+Luang Pó também enfrentou problemas porque parte dos moradores da região
+costumava se beneficiar da floresta cortando lenha, caçando e usando
+como pasto para o gado, mas agora que ela havia sido transformada em
+monastério, eles não podiam mais fazer nada disso. Alguns decidiram
+intimidar os monges utilizando uma mulher para difamá-los. Quando o
+monge que normalmente caminhava em *pindapāta* naquela área ouviu as
+notícias, ficou preocupado e consultou Ajahn Chah, que então se
+voluntariou a ir em vez dele. Os leigos desaconselharam, dizendo: “Tahn
+Ajahn, não vá em *pindapāta* sozinho, eles vão arrumar uma garota para
+abraçá-lo e então acusá-lo de tê-la estuprado.” Mas Luang Pó não estava
+preocupado, ele apenas disse: “Deixa ela vir! Desde que nasci nunca
+abracei uma mulher. Diga para ela vir, vou gostar muito!” Mas no final
+nada aconteceu e o murmúrio cessou sozinho. Desde então a atmosfera
+começou a melhorar e o monastério ganhou a simpatia de todos os
+moradores da região.
+
+Mais um exemplo do modo ao mesmo tempo gentil e firme com que Luang Pó
+lidava com conflitos foi a ocasião em que uma pessoa, querendo se livrar
+de um cachorro, abandonou-o no monastério. Luang Pó resolveu o problema
+explicando de forma racional e evitando criar ressentimentos: “Um
+monastério de floresta não gosta de cães e gatos. Nós já temos muitos
+animais aqui, como esquilos e galinhas selvagens. Se eu estiver aqui,
+essas espécies terão continuidade; caso contrário, elas desaparecerão.
+Eu quero deixar algumas para que as próximas gerações possam ver. Se
+você trouxer cães para abandonar aqui, eles irão matar esses animais.
+Não faça novamente. Quem for o dono daquele cachorro, leve-o. Se você
+não o quer, eu encontro outra pessoa para levá-lo, mas não faça
+novamente. Os esquilos aqui são meus, mas também seus; as galinhas são
+minhas, mas também suas. Quando seus filhos crescerem, eles terão a
+chance de ver essas espécies no monastério. Se estivessem fora daqui,
+elas desapareceriam; portanto, me ajude a protegê-las.”
+
+Mas não eram apenas com os leigos que eles tinham problemas: o mesmo
+ocorria com os demais monges da região – algo normal, uma vez que os
+pontos de vista de diferentes pessoas não são sempre iguais. Mesmo Luang
+Pu Man, quando veio residir em Ubon Ratchathani, foi expulso da região
+pelos monges dos monastérios de cidade, cujo modo de vida é diferente
+dos monges da floresta. Os monges da cidade em geral pensam que os
+monges da floresta não conhecem os verdadeiros princípios do *Buddha
+Sāsanā* por não terem passado pelo curso formal de estudo das escrituras
+budistas. Eles afirmam que as práticas ascéticas, como comer apenas uma
+refeição ao dia, são *attakilamathānuyogo*, ou seja, a prática de
+atormentar a si mesmo de forma inútil. Eles clamam que os monges
+*kammatthāna* têm visão equivocada (*micchāditthi*) e, sendo assim, como
+poderiam ensinar à população de forma correta? Tudo que ensinam também
+deve estar errado. Quando ensinam, eles apenas falam sem ler dos livros
+e escrituras, como se não precisassem de um ponto de referência e
+simplesmente inventassem o que dizer.
+
+Na época em que Luang Pó veio morar em Wat Nong Pah Pong, era sabido de
+todos que monastérios e templos budistas eram deficientes em disciplina.
+Neles realizavam-se regularmente muitas atividades diretamente proibidas
+pela regra monástica como, por exemplo, shows de música, bailes, jogos,
+apresentações de teatro, etc. Os monges eram relapsos em moralidade e
+alguns ganhavam dinheiro como médiuns, astrólogos e videntes ou
+fabricando remédios milagrosos – todas atividades expressamente
+proibidas pelo Buddha à ordem monástica. Naquela época tudo isso era
+considerado normal, pois as pessoas não tinham um ponto de referência
+para julgar o comportamento dos monges e, por isso, ninguém reclamava.
+
+Mas quando Luang Pó e os monges de Wat Nong Pah Pong chegaram e passaram
+a servir como exemplo de monges que praticam estritamente seguindo o
+Vinaya, o resultado foi que a fé dos habitantes dos vilarejos e da
+cidade começou a ir em direção a eles, em detrimento dos monges da
+cidade. Isso fez com que alguns monges se sentissem um tanto
+incomodados. Alguns poderosos dentro dos círculos eclesiásticos olhavam
+Luang Pó e Wat Nong Pah Pong com rancor, outros com incompreensão,
+outros ainda com inimizade aberta. Certa vez um monge importante e
+respeitado chegou a chamar Ajahn Chah de “monge louco”. Luang Pó apenas
+tolerava sem se ofender; ele jamais retaliava ou respondia aos insultos.
+Ele tentava não ter atritos com nenhuma parte da sociedade dentro ou
+fora do monastério, tendo fé que “o Dhamma protege aqueles que protegem
+o Dhamma.”
+
+Todos os anos, ao começo do *vassa*, ele levava seus monges para prestar
+reverência aos monges da cidade mais seniores, mesmo sabendo que,
+chegando lá, seria recebido com acusações e ofensas. Como sempre, ele se
+comportava de forma impecável e com tamanha humildade que era difícil
+acharem alguma abertura para criticá-lo. Um exemplo disso pode ser visto
+neste relato de um discípulo sobre a ocasião em que foram prestar
+reverência ao monge mais sênior do distrito:
+
+“… No começo de todo *vassa*, Ajahn Chah ia prestar reverência a todos
+os monges seniores da região. E este monge em particular, todas as vezes
+que íamos visitá-lo, criticava Ajahn Chah. Levávamos o monastério
+inteiro, dezessete monges, e prestávamos reverência, mas é óbvio, o
+interesse dele era em erudição, portanto costumava menosprezar Ajahn
+Chah o tempo todo. Eu me lembro de ir com ele uma vez, e esse monge
+disse: ‘O que você está ensinando a essas pessoas? Você está ensinando
+esses monges a apenas sentar de olhos fechados, eles não conseguem ver
+nada, não conseguem ler nada, como vão conhecer a verdade com os olhos
+fechados? Como você vai conhecer a verdade se apenas senta com os olhos
+fechados e medita? Ninguém consegue ver nada, só há escuridão.’ E então
+disse a Ajahn Chah que ele estava ensinando todos a serem ignorantes e
+tolos. Ele o criticou por uma hora e, enquanto estávamos ali sentados,
+Ajahn Chah escutava as críticas. Então, logo ao final, seu único
+comentário foi: ‘Saberemos no dia da nossa morte quem é verdadeiro, quem
+está correto.’ e em seguida liderou o grupo a realizar a cerimônia de
+pedir perdão.[^3]”
+
+Mesmo quando tratado dessa maneira, sempre que havia itens que poderiam
+ser úteis em um monastério da cidade e estavam sobrando em Wat Nong Pah
+Pong, Luang Pó os doava a eles. Além disso, nos primeiros anos, ele
+organizava aulas para que seus discípulos estudassem o currículo oficial
+de Dhamma, e ele mesmo atuava como professor. Como resultado, todos os
+monges de Wat Nong Pah Pong possuíam a graduação de Nak Thamm Ek. Nos
+anos posteriores, apesar de o monastério não mais organizar aulas
+formais, Luang Pó ainda dava permissão e suporte para que aqueles que
+estivessem interessados pudessem cursar Nak Thamm.
+
+Com o passar do tempo, alguns monges da cidade tornaram-se discípulos de
+Ajahn Chah, o que fez sua reputação melhorar entre eles, até que ele se
+tornou respeitado por todo o país. Pessoas de perto e de longe começaram
+a fluir em direção a Wat Nong Pah Pong e todos os sentimentos de
+inimizade foram abandonados. Além disso, é bem possível que toda aquela
+pressão vinda de fora tenha sido útil – além das excelentes qualidades
+de Ajahn Chah – em fomentar a harmonia que sempre foi uma das
+características mais marcantes da sangha de Wat Nong Pah Pong e que a
+fez prosperar por tantos anos, até os dias de hoje.
+
+[^1]: Uma personagem que surge frequentemente nas escrituras budistas
+    tentando persuadir o Buddha e seus discípulos a desistirem da
+    prática do Dhamma e voltar a viver no mundo da sensualidade (pāli).
+
+[^2]: Estas são duas expressões tailandesas que possuem ambos um
+    significado de face, imediatamente percebível, e também um mais
+    sutil. A primeira é uma admoestação para que Pó Nu não fique
+    pensando demais, tentando adivinhar o significado do que não sabe,
+    ou, como dizem no Brasil: ‘ficar criando minhocas na cabeça’. A
+    segunda, além de recomendar falar menos, também indica a necessidade
+    de humildade – não ficar falando sobre algo sobre o qual não temos
+    real conhecimento.
+
+[^3]: Essa cerimônia consiste em pedir perdão por quaisquer ofensas que
+    possam ter cometido para aquela pessoa, e a mesma pessoa então
+    responde pedindo que eles também o perdoem por qualquer ofensa que
+    possa ter cometido. É realizada como forma de prestar reverência a
+    monges mais velhos e reforçar laços de amizade dentro da sangha.

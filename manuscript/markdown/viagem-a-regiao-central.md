@@ -1,0 +1,258 @@
+Viagem à região central
+=======================
+
+Em 1950 Luang Pó recebeu uma carta de Tahn Mahā Bun Mi, um velho amigo
+com quem costumava praticar meditação. Ele mandava notícias de Luang Pó
+Sot, abade de Wat Pak Nam Passit Jaroen, em Bangkok,[^1] e Ajahn Chah
+resolveu viajar até lá para experimentar a técnica de meditação
+Dhammakaya por cerca de sete dias. Ao final decidiu que não era um bom
+método para sua prática e partiu em direção a Ayutthaya, onde se
+hospedou em Wat Yai Chai Mongkhon. Entre 1950 e 1951, seu décimo segundo
+ano como monge, Luang Pó residiu em Wat Yai Chai Mongkhon.
+
+Em 1951, durante sua estadia em Wat Yai Chai Mongkhon, Luang Pó sofreu
+de uma doença do sistema digestivo que provocou inchaço no lado esquerdo
+do abdômen e muita dor. Além disso, um antigo problema de asma voltou
+com força total, causando-lhe muito sofrimento. Ele refletiu que, uma
+vez que estava longe de sua família e amigos, seria um fardo para as
+pessoas do monastério levá-lo ao hospital e pagar tratamentos, portanto
+decidiu curar a si mesmo usando um medicamento do Dhamma: jejum. Ele fez
+jejum completo, consumindo apenas água e renunciando a todas suas
+preocupações ligadas ao corpo. Ele também parou de dormir e apenas
+alternava entre as posturas de pé e sentada, recusando-se a deitar.
+Luang Pó tomou refúgio no Dhamma, decidiu morrer praticando o Dhamma.
+Essa resolução era firme e mesmo ele ficou surpreso em ver como a mente
+de uma pessoa que está resoluta em lutar com a morte se transforma,
+ganhando força e poder nunca antes experienciados. A mente dele não
+manifestava o mínimo sinal de fraquejo perante a morte.
+
+Durante as manhãs, enquanto os demais monges saíam em *pindapāta*, ele
+praticava meditação andando; e quando eles retornavam, ele voltava para
+sua cabana e continuava praticando meditação sentado. Seu corpo estava
+muito enfraquecido, mas sua mente estava firme e forte, não havia medo
+da morte ou de nenhuma outra coisa neste mundo. Após oito dias em jejum,
+um de seus amigos lhe implorou que encerrasse a prática e voltasse a se
+alimentar. Uma vez que os sintomas já haviam regredido, tanto do
+estômago como da asma, ele decidiu voltar a se alimentar uma vez por
+dia, como normalmente fazia.
+
+Durante sua estadia em Wat Yai Chai Mongkhon, Luang Pó interrompeu todas
+suas atividades ensinando o Dhamma e focou exclusivamente em desenvolver
+*samādhi*. Ao fim do *vassa* partiu para a ilha de Si Chang em busca de
+reclusão. Ele experienciou muita paz em seu coração durante a estadia de
+um mês no local, e o seguinte pensamento lhe ocorreu: “Os habitantes de
+Si Chang moram nesta ilha cercada de água. Para que esta terra possa
+existir, ela tem que estar bem acima do nível d’água. A ilha de Si Chang
+é um apoio exterior para o corpo, mas eu vim até aqui para buscar uma
+ilha em meu coração, uma ilha que as *kilesas* não conseguiam inundar.
+Mesmo estando na ilha de Si Chang, ainda tenho que continuar procurando
+uma ilha dentro do meu coração para que tenha uma moradia dentro de mim.
+Essa ilha no coração está cercada pelo mar de *kilesas* e desejos.
+Aqueles que ainda não venceram *kilesas*, ganância, apegos e mau *kamma*
+podem ser comparados com pessoas jogadas ao mar: é de se esperar que,
+cedo ou tarde, irão se afogar, caso contrário, ser vítimas de predadores
+marítimos como tubarões, por exemplo.”
+
+Após deixar Si Chang, Luang Pó voltou a Wat Yai Chai Mongkhon e
+permaneceu lá por mais um período antes de começar a viagem de volta à
+sua terra natal, Ubon Ratchatani. Quando seus parentes e amigos ouviram
+a notícia de seu retorno, todos ficaram felizes e vieram visitá-lo e
+prestar reverência a ele, pois já havia mais de dois anos desde que o
+viram pela última vez. Nesse novo encontro, todos achavam que seu porte
+e comportamento estavam ainda mais dignos e nobres. Todos o tratavam com
+o mais alto respeito, e sempre que ele dava algum conselho todos ouviam
+com interesse e ninguém o contradizia. Seus ensinamentos fizeram com que
+eles entendessem de forma ainda mais profunda a importância de boas e
+más ações.
+
+Certa noite, um dos garotos que era apenas um noviço na época de seu
+encontro anterior com Luang Pó, mas que agora já havia se ordenado
+monge, pediu que ele o aceitasse como discípulo. Pediu permissão para
+acompanhá-lo em sua prática do Dhamma, mas Luang Pó apenas ouviu em
+silêncio, nem aceitando ou recusando o pedido, o que fez o rapaz
+sentir-se inseguro e desapontado. Após um momento em silêncio, Luang Pó
+perguntou:
+
+“Por que você quer vir?”
+
+“Eu vejo que viver aqui não vai me ajudar a melhorar, por isso quero ir
+e praticar como o senhor.”
+
+“Bom, se realmente quer vir, peça que lhe façam um mapa para Ban Pah Tao
+e me espere lá.”
+
+Após passar um período instruindo seus familiares e amigos sobre o
+Dhamma, Luang Pó partiu em direção a Ban Pah Tao, parando pelo caminho
+sempre que encontrava lugares reclusos para praticar meditação. Ao
+chegar a Ban Pah Tao, ele se estabeleceu em Lan Hin Ték (que mais tarde
+passou a se chamar Wat Tam Hin Ték) e lá passou o *vassa* de 1952, seu
+décimo quarto.
+
+Naquele ano, vários monges e noviços se juntaram a ele durante o
+*vassa*. Luang Pó determinou uma rotina de prática bastante intensa para
+o período: algumas vezes eles praticavam meditação sentados e andando
+durante todo o dia e toda a noite. Luang Pó os ensinava:
+
+“Não se apeguem demais a convenções. Dia e noite são apenas convenções
+inventadas pelas pessoas no mundo; se olharmos do ponto de vista do
+Dhamma mais elevado, não há dia nem noite, não há lua cheia ou
+minguante. Portanto, podemos combinar uma nova convenção: que o dia seja
+noite e que a noite seja dia. Se pensarmos que não há diferença entre
+dia e noite, vamos poder nos dedicar à nossa prática sem nos preocupar
+com horários.”
+
+Um dia Luang Pó reparou que um discípulo regularmente tomava um
+medicamento, e por isso perguntou:
+
+“Já faz tempo que vem tomando esse remédio?”
+
+“Sim senhor, já faz vários anos.”
+
+“E você melhorou?”
+
+“Ajuda a diminuir os sintomas…”
+
+Luang Pó permaneceu em silêncio por um instante e então disse: “Eh! Você
+vem tomando esse remédio há muito tempo e ainda não está curado. Jogue-o
+fora e experimente uma nova receita de remédio: coma pouco, durma pouco,
+fale pouco e pratique muita meditação sentado e andando. Experimente, e
+se não melhorar, deixe morrer.”
+
+A maioria dos moradores de Ban Pah Tao eram pobres e, apesar de terem fé
+em fazer doações, não tinham muito a oferecer, uma vez que quase não
+tinham suficiente para si mesmos. Por causa disso, ajudavam a Sangha
+como podiam, com o pouco que era possível. Em geral ofereciam apenas
+arroz, pimentas, sal, alguns vegetais frescos e às vezes bananas. Mas
+Luang Pó e seus discípulos continuavam praticando sem sentirem-se
+desencorajados pela escassez de alimentos. Pelo contrário, eles
+utilizavam essas dificuldades como oportunidades para desenvolver
+*khanti pāramī*[^2] e aprender a não se preocupar com comida. Mas certo
+dia algo aconteceu que colocou em teste a resolução deles:
+
+Perto da cabana onde Luang Pó morava havia uma pequena represa cheia de
+peixes. Quando havia muita chuva, a água transbordava e os peixes que
+eram arrastados para fora da represa tinham que lutar para retornar.
+Alguns eram fortes e conseguiam pular a parede de pedra da represa, mas
+outros ficavam exaustos pelo esforço e permaneciam no chão, tentando
+respirar na água rasa. Luang Pó via e frequentemente recolhia os peixes
+e os jogava de volta para dentro da represa. Certa manhã, como era seu
+hábito antes de sair em *pindapāta*, Luang Pó foi verificar se havia
+peixes precisando de ajuda, mas ao invés disso encontrou fileiras de
+varas de pescar à beira da represa, algumas com peixes já fisgados. Ele
+não podia libertá-los, porque as varas pertenciam a alguém e soltar os
+peixes significaria destruir propriedade alheia. Portanto ele apenas
+olhou sentindo tristeza e pensou: “Os peixes engolem a isca, mas na isca
+há o anzol. É algo triste de ver. Por causa da fome, os peixes engolem a
+isca que prepararam para eles e, por mais que se debatam, não conseguem
+escapar. Isso é resultado do mau *kamma* dos peixes por não terem
+refletido antes de comer. Nós seres humanos somos iguais – se comermos
+por gula, sem discernir ou refletir, seremos como os peixes que se
+deixam enganar pela isca e ficam presos no anzol. Facilmente estaremos
+em perigo.”
+
+Ao retornar de *pindapāta* naquela manhã, Luang Pó notou que os aldeões
+trouxeram um prato especial para oferecer aos monges: cozido de peixe.
+Ele imediatamente pensou que com certeza o cozido havia sido feito com
+os peixes que viu presos às varas na represa pela manhã; talvez alguns
+estivessem entre aqueles que ele ajudou a colocar de volta n’água. Luang
+Pó imediatamente sentiu repulsa e perdeu a fome. Quando ofereceram a
+panela com o cozido, ele a recebeu, mas não se serviu. Embora houvesse
+muita pouca comida – os únicos outros pratos disponíveis eram pasta de
+peixe fermentado e alguns vegetais – ele se recusou a comer o cozido por
+medo de que os aldeões ficassem felizes pensando terem realizado bom
+*kamma* e, por causa disso, continuassem pescando na represa para
+cozinhar e oferecer aos monges. No final, não haveria mais peixes. Luang
+Pó aceitou a panela de cozido, mas logo a passou adiante ao próximo
+monge da fila. O monge notou que Luang Pó não havia se servido e decidiu
+também não comer. Vendo isso, os aldeões perguntaram:
+
+“O ajahn não vai comer cozido de peixe?”
+
+“Não. Fico com pena deles.”
+
+Por um momento houve um silêncio incômodo, até que um homem exclamou:
+“Se fosse eu, não ia conseguir resistir!”
+
+Desse dia em diante, os aldeões não mais perturbaram os peixes da
+represa e, mais do que isso, espalharam a notícia de que os peixes
+pertenciam ao monastério e que, portanto, todos deveriam ajudar a
+protegê-los.
+
+Em 1953 (seu décimo quinto ano como monge), Luang Pó e seus discípulos
+continuaram praticando em Wat Tam Hin Ték, mas, com a chegada da estação
+chuvosa, Luang Pó se separou do grupo e foi passar o *vassa* sozinho no
+topo da montanha Pu Kói, que ficava a cerca de três quilômetros do
+monastério. Ele temporariamente delegou a responsabilidade sobre os
+demais monges a Ajahn Úan. Pela manhã, Luang Pó ia em *pindapāta* e
+fazia a refeição junto com os demais monges, mas, terminada a refeição,
+caminhava de volta para praticar sozinho em Pu Kói.
+
+Luang Pó estabeleceu uma prática bastante intensa para que os monges
+observassem durante aquele *vassa*. Ele determinou que todos deveriam
+passar as noites em claro, praticando meditação sentados e andando.
+Quando o sol raiava, eles saíam em *pindapāta* – alguns vilarejos eram
+próximos, outros exigiam uma caminhada de até seis quilômetros e, nesses
+casos, quando enfim retornavam ao monastério e se alimentavam, já eram
+quase nove da manhã. Às dez horas, terminada a limpeza do refeitório,
+todos voltavam às suas cabanas para praticar meditação e então
+descansavam até às três da tarde. Nesse horário, um sino era tocado para
+que os monges se reunissem para limpar as demais áreas do monastério e
+realizar outras tarefas conforme fossem necessárias. Por volta das seis,
+o sino era tocado novamente para chamar os monges à *pūja*[^3]
+vespertina e, terminada a *pūja*, começavam a novamente praticar
+meditação até o raiar do sol.
+
+Durante os primeiros dois meses do retiro, os monges estavam autorizados
+a escolher como queriam praticar: podiam alternar entre meditação
+sentada e andando quando quisessem. Mas, quando o terceiro mês chegou,
+Luang Pó mudou a regra, que agora exigia que os monges praticassem a
+noite inteira numa só postura, ou seja, quem quisesse praticar sentado,
+teria que permanecer sentado até o amanhecer; quem quisesse praticar
+meditação andando, teria que permanecer caminhando até o sol raiar. Eles
+não podiam mudar de postura durante a noite. Luang Pó também aumentou a
+intensidade de sua prática durante aquele período. Quando chegava o dia
+do *uposatha*,[^4] ele descia da montanha para dar ensinamentos aos
+monges, noviços e leigos; para os demais dias, eles eram instruídos a
+simplesmente continuarem praticando como ele havia determinado.
+
+Durante sua estadia em Pu Kói, Luang Pó sofreu com um problema de saúde:
+suas gengivas começaram a inchar e causar uma dor indescritível. Ele
+curou a si mesmo através da prática do Dhamma, utilizando *khanti
+pāramī* como fundação para que a mente se pacificasse e contemplando que
+adoecer é natural a todos os seres. Luang Pó aguentava a dor e treinava
+a si mesmo para ser capaz de lidar com qualquer obstáculo que surgisse;
+ele lutava utilizando a força de *samādhi* e sabedoria até que
+conseguisse separar a dor – que era uma manifestação do corpo – e sua
+mente. Ele não permitia que sua mente sofresse junto com o corpo,
+multiplicando a quantidade de sofrimento. A doença nas gengivas
+permaneceu por sete dias antes de desaparecer sem uso de medicamentos.
+
+Ao fim do *vassa*, Luang Pó voltou a residir no monastério, mas deu
+ordem para que os demais monges fossem praticar na floresta, distantes
+um do outro, mas que se reunissem no monastério todo dia de *uposatha*.
+Eles continuaram praticando dessa maneira até março de 1954, quando a
+mãe de Ajahn Chah, Mé Pim, veio visitar-lhe acompanhada de seu irmão
+mais velho e outros cinco parentes e amigos de Ban Kó. Eles pediram que
+retornasse a sua terra natal para ensinar o Dhamma para as pessoas de
+lá. Luang Pó refletiu e decidiu que já era hora de retribuir seu débito
+de gratidão à sua mãe lhe ensinando o Dhamma, e por isso aceitou o
+convite. Após os leigos partirem, ele convocou uma reunião da sangha e
+delegou o dever de cuidar do monastério a dois discípulos. Quando tudo
+estava preparado, Luang Pó e um pequeno número de monges se despediram
+dos aldeões em Ban Pah Tao e começaram a caminhada de volta a Ban Kó.
+
+[^1]: Luang Pó Sot foi quem deu origem à técnica de meditação
+    “Dhammakaya”. Apesar disso, muitos argumentam que ele não é o
+    responsável pelo polêmico movimento Dhammakaya existente hoje, pois
+    foi algo que se desenvolveu após sua morte.
+
+[^2]: Resiliência, a capacidade de aguentar situações e sensações
+    desagradáveis (pāli).
+
+[^3]: Serviço devocional composto de gestos de louvor como fazer
+    prostrações, recitar cânticos, oferecer flores, velas, incenso, etc
+    (pāli).
+
+[^4]: Dia em que os monges se encontram para confessar suas
+    transgressões e recitar a regra monástica. Também é o nome dado ao
+    templo onde essa cerimônia é realizada (pāli).

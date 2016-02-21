@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="TravessiaNaFlorestaBookId" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- ISBN -->
+    <dc:identifier id="TravessiaNaFlorestaBookId" opf:scheme="ISBN">urn:isbn:978-1-78432-048-5</dc:identifier>
+    <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
+    
+
+    <dc:title>Travessia na Floresta</dc:title>
+    
+    <dc:rights></dc:rights>
+    
+
+    <!-- BISAC Subject Headings List: https://www.bisg.org/bisac-subject-codes -->
+    <dc:subject>RELIGION / Buddhism / Theravada</dc:subject>
+
+    <dc:creator opf:file-as="Mudito, Ajahn" opf:role="aut">Ajahn Mudito</dc:creator>
+
+    <dc:source>http://fsbooks.org</dc:source>
+
+    <!-- List of contributors
+
+         See: MARC Code List for Relators: http://www.loc.gov/marc/relators/relaterm.html
+
+         Examples:
+
+         * Editor [edt]
+           Use for a person or organization who prepares for publication a work not primarily his/her own,
+           such as by elucidating text, adding introductory or other critical matter, or technically directing
+           an editorial staff.
+
+         * Cover designer [cov]
+           Use for a person or organization responsible for the graphic design of a book cover,
+           album cover, slipcase, box, container, etc. For a person or organization responsible
+           for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer.
+
+         * Translator [trl]
+           Use for a person or organization who renders a text from one language into another, or from an older
+           form of a language into the modern form.
+
+         -->
+
+    
+    
+    
+    
+    <dc:contributor opf:file-as="Mudito, Ajahn" opf:role="trl">Ajahn Mudito</dc:contributor>
+    
+    
+
+    <dc:publisher>Amaravati Publications</dc:publisher>
+    <dc:date opf:event="publication">2016-02-01</dc:date>
+
+    <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
+    <dc:language>en</dc:language>
+
+    <meta name="cover" content="cover-image" />
+
+  </metadata>
+
+  <!-- MANIFEST (mandatory)
+       List of all the resources of the book (XHTML, CSS, images,…).
+       The order of item elements in the manifest is NOT significant.
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.3 
+  -->
+
+  <manifest>
+    
+    <item href="Fonts/sourcesanspro-light.ttf" id="fonts-sourcesanspro-light-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-bold.ttf" id="fonts-sourcesanspro-bold-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-lightitalic.ttf" id="fonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-italic.ttf" id="fonts-sourcesanspro-italic-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-regular.ttf" id="fonts-sourcesanspro-regular-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/existence-light.ttf" id="fonts-existence-light-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Styles/style-epub.css" id="styles-style-epub-css" media-type="text/css" />
+    
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    
+    <item href="Text/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
+    
+    <item href="Text/viagem-a-regiao-central.xhtml" id="chapter_viagem-regi-o-central" media-type="application/xhtml+xml" />
+    
+    <item href="Text/preface.xhtml" id="chapter_pref-cio" media-type="application/xhtml+xml" />
+    
+    <item href="Text/luang-pu-man.xhtml" id="chapter_luang-pu-man-bh-ridatto" media-type="application/xhtml+xml" />
+    
+    <item href="Text/quote-snp-319.xhtml" id="chapter_" media-type="application/xhtml+xml" />
+    
+    <item href="Text/estabelecendo-wat-nong-pah-pong.xhtml" id="chapter_estabelecendowat-nong-pah-pong" media-type="application/xhtml+xml" />
+    
+    <item href="Text/infancia.xhtml" id="chapter_inf-ncia" media-type="application/xhtml+xml" />
+    
+    <item href="Text/vida-na-estrada.xhtml" id="chapter_vida-na-estrada" media-type="application/xhtml+xml" />
+    
+    <item href="Text/glossary.xhtml" id="chapter_gloss-rio" media-type="application/xhtml+xml" />
+    
+    <item href="Text/de-volta-a-estrada.xhtml" id="chapter_de-volta-estrada" media-type="application/xhtml+xml" />
+    
+    <item href="Text/luang-pu-kinari.xhtml" id="chapter_luang-pu-kinari" media-type="application/xhtml+xml" />
+    
+    <item href="Text/a-chegada-dos-ocidentais.xhtml" id="chapter_a-chegada-dos-ocidentais" media-type="application/xhtml+xml" />
+    
+    <item href="Text/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    
+    <item href="Text/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
+    
+    <item href="Text/nota-do-tradutor.xhtml" id="chapter_nota-do-tradutor" media-type="application/xhtml+xml" />
+    
+    <item href="Text/treinamento-nos-primeiros-anos.xhtml" id="chapter_treinamentonos-primeiros-anos" media-type="application/xhtml+xml" />
+    
+    <item href="Text/o-monge-sem-raiva.xhtml" id="chapter_o-monge-sem-raiva" media-type="application/xhtml+xml" />
+    
+    <item href="Text/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
+    
+    <item href="Text/divulgando-o-dhamma-no-ocidente.xhtml" id="chapter_divulgando-o-dhammano-ocidente" media-type="application/xhtml+xml" />
+    
+    <item href="Text/lidando-com-obstaculos.xhtml" id="chapter_lidando-com-obst-culos" media-type="application/xhtml+xml" />
+    
+    <item href="Text/doenca-e-morte.xhtml" id="chapter_doen-a-e-morte" media-type="application/xhtml+xml" />
+    
+    <item href="Text/conhecendo-novas-terras.xhtml" id="chapter_conhecendo-novas-terras" media-type="application/xhtml+xml" />
+    
+    <item href="Text/vida-como-bhikkhu.xhtml" id="chapter_vida-como-bhikkhu" media-type="application/xhtml+xml" />
+    
+    <item href="Text/anos-posteriores.xhtml" id="chapter_anos-posteriores" media-type="application/xhtml+xml" />
+    
+    <item href="Text/voltando-para-casa.xhtml" id="chapter_voltando-para-casa" media-type="application/xhtml+xml" />
+    
+    <item href="Text/vencendo-o-medo.xhtml" id="chapter_vencendo-o-medode-fantasmas" media-type="application/xhtml+xml" />
+    
+    <item href="Images/profile-crop-2.jpg" id="images-profile-crop-2-jpg" media-type="image/jpeg" />
+    
+    <item href="Images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
+    
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="Images/sitting-in-kuti-crop.jpg" id="images-sitting-in-kuti-crop-jpg" media-type="image/jpeg" />
+    
+    <item href="Images/almsround.jpeg" id="images-almsround-jpeg" media-type="image/jpeg" />
+    
+    <item href="Images/profile.jpeg" id="images-profile-jpeg" media-type="image/jpeg" />
+    
+    <item href="Images/sitting-in-kuti.jpeg" id="images-sitting-in-kuti-jpeg" media-type="image/jpeg" />
+    
+    <item href="Images/CCLogo.jpg" id="images-cclogo-jpg" media-type="image/jpeg" />
+    
+    <item href="Images/sitting-in-kuti-crop-2.jpg" id="images-sitting-in-kuti-crop-2-jpg" media-type="image/jpeg" />
+    
+    <item href="Images/profile-crop.jpg" id="images-profile-crop-jpg" media-type="image/jpeg" />
+    
+    <item href="Images/sitting-on-bench.jpeg" id="images-sitting-on-bench-jpeg" media-type="image/jpeg" />
+    
+  </manifest>
+
+  <!-- SPINE (mandatory)
+
+       The spine element defines the default reading order of the content. It doesn't list every file in the manifest, 
+       just the reading order.
+
+       The value of the idref tag in the spine has to match the ID tag for that entry in the manifest.
+
+       For example, if you have the following reference in your manifest:
+
+          <item id="chapter-1" href="chapter01.xhtml" media-type="application/xhtml+xml" />
+
+       your spine entry would be:
+
+          <itemref idref="chapter-1" />
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.4
+
+       -->
+  <spine toc="ncx">
+    
+    <itemref idref="chapter_cover"  />
+    
+    <itemref idref="chapter_title-page"  />
+    
+    <itemref idref="chapter_contents"  />
+    
+    <itemref idref="chapter_pref-cio"  />
+    
+    <itemref idref="chapter_nota-do-tradutor"  />
+    
+    <itemref idref="chapter_"  />
+    
+    <itemref idref="chapter_inf-ncia"  />
+    
+    <itemref idref="chapter_vida-como-bhikkhu"  />
+    
+    <itemref idref="chapter_conhecendo-novas-terras"  />
+    
+    <itemref idref="chapter_vida-na-estrada"  />
+    
+    <itemref idref="chapter_luang-pu-man-bh-ridatto"  />
+    
+    <itemref idref="chapter_vencendo-o-medode-fantasmas"  />
+    
+    <itemref idref="chapter_luang-pu-kinari"  />
+    
+    <itemref idref="chapter_de-volta-estrada"  />
+    
+    <itemref idref="chapter_o-monge-sem-raiva"  />
+    
+    <itemref idref="chapter_voltando-para-casa"  />
+    
+    <itemref idref="chapter_viagem-regi-o-central"  />
+    
+    <itemref idref="chapter_estabelecendowat-nong-pah-pong"  />
+    
+    <itemref idref="chapter_lidando-com-obst-culos"  />
+    
+    <itemref idref="chapter_treinamentonos-primeiros-anos"  />
+    
+    <itemref idref="chapter_anos-posteriores"  />
+    
+    <itemref idref="chapter_a-chegada-dos-ocidentais"  />
+    
+    <itemref idref="chapter_divulgando-o-dhammano-ocidente"  />
+    
+    <itemref idref="chapter_doen-a-e-morte"  />
+    
+    <itemref idref="chapter_gloss-rio"  />
+    
+    <itemref idref="chapter_copyright"  />
+    
+  </spine>
+
+  <!-- GUIDE (optional, recommended by Apple)
+
+        The guide lets you specify the role of the book's files.
+
+        Available tags: cover, title-page, toc, index, glossary, acknowledgements, bibliography,
+        colophon, copyright-page, dedication, epigraph, foreword, loi (list of illustrations),
+        lot (list of tables), notes, preface, and text.
+
+        http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.6
+
+       -->
+  <guide>
+    
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+    
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="title-page" />
+    
+    <reference href="Text/toc.xhtml" title="Contents" type="toc" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <reference href="Text/copyright.xhtml" title="Copyright" type="copyright-page" />
+    
+  </guide>
+
+</package>
