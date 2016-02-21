@@ -80,11 +80,11 @@
     
     <item href="Fonts/existence-light.ttf" id="fonts-existence-light-ttf" media-type="application/x-font-ttf" />
     
-    <item href="Styles/style-epub.css" id="styles-style-epub-css" media-type="text/css" />
+    <item href="Styles/style-mobi-kf8.css" id="styles-style-mobi-kf8-css" media-type="text/css" />
+    
+    <item href="Styles/style-mobi.css" id="styles-style-mobi-css" media-type="text/css" />
     
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    
-    <item href="Text/cover.xhtml" id="chapter_capa" media-type="application/xhtml+xml" />
     
     <item href="Text/viagem-a-regiao-central.xhtml" id="chapter_viagem-regi-o-central" media-type="application/xhtml+xml" />
     
@@ -118,7 +118,7 @@
     
     <item href="Text/o-monge-sem-raiva.xhtml" id="chapter_o-monge-sem-raiva" media-type="application/xhtml+xml" />
     
-    <item href="Text/titlepage.xhtml" id="chapter_t-tulo" media-type="application/xhtml+xml" />
+    <item href="Text/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
     
     <item href="Text/divulgando-o-dhamma-no-ocidente.xhtml" id="chapter_divulgando-o-dhammano-ocidente" media-type="application/xhtml+xml" />
     
@@ -172,17 +172,15 @@
        -->
   <spine toc="ncx">
     
-    <itemref idref="chapter_capa"  />
-    
-    <itemref idref="chapter_t-tulo"  />
-    
-    <itemref idref="chapter_conte-do"  />
-    
     <itemref idref="chapter_pref-cio"  />
     
     <itemref idref="chapter_nota-do-tradutor"  />
     
     <itemref idref="chapter_"  />
+    
+    <itemref idref="chapter_title-page"  />
+    
+    <itemref idref="chapter_conte-do"  />
     
     <itemref idref="chapter_inf-ncia"  />
     
@@ -239,17 +237,15 @@
        -->
   <guide>
     
-    <reference href="Text/cover.xhtml" title="Capa" type="cover" />
     
-    <reference href="Text/titlepage.xhtml" title="Título" type="title-page" />
+    
+    
+    
+    
+    
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="text" />
     
     <reference href="Text/toc.xhtml" title="Conteúdo" type="toc" />
-    
-    
-    
-    
-    
-    
     
     
     

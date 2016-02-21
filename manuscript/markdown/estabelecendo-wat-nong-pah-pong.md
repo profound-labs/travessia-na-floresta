@@ -1,8 +1,8 @@
-![Aj Chah](../Images/almsround.jpg)
-{:style="text-align: center;"}
-
 Estabelecendo Wat Nong Pah Pong
 ==============================
+
+![Aj Chah](../Images/almsround.jpg)
+{:style="text-align: center;"}
 
 A vida de peregrinações que Luang Pó levava acabou em 1954, quando ele
 decidiu se estabelecer em Dong Pah Pong. Daquele dia em diante, ele

@@ -1,1 +1,1 @@
-exclude_assets: [ "cover.xcf", "buddho.jpg", "cover_photo.jpg", "sourcesanspro-extralight.ttf", "profile-crop.jpg", "profile.jpeg", "sitting-in-kuti-crop.jpg", "sitting-in-kuti.jpeg" ]
+exclude_assets: [ "webcover.jpg", "sourcesanspro-extralight.ttf", "profile-crop.jpg", "profile.jpeg", "sitting-in-kuti-crop.jpg", "sitting-in-kuti.jpeg" ]

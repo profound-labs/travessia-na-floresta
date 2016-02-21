@@ -6,12 +6,10 @@ version: 'v1.0'
 
 bookid: "TravessiaNaFlorestaBookId"
 
-# TODO: cover
-
 toc:
   - { the_matter: frontmatter }
   - { target: epub, title: "Capa", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
-  - { target: epub, title: "Title Page", src: 'titlepage.xhtml.erb', type: title-page }
+  - { target: epub, title: "Título", src: 'titlepage.xhtml.erb', type: title-page }
   - { target: epub, title: "Conteúdo", src: 'toc.xhtml.erb', type: toc }
   - preface.md
   - nota-do-tradutor.md

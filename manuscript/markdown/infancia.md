@@ -1,8 +1,8 @@
-![Aj Chah](../Images/sitting-in-kuti-crop-2.jpg)
-{:style="text-align: center;"}
-
 Infância
 ========
+
+![Aj Chah](../Images/sitting-in-kuti-crop-2.jpg)
+{:style="text-align: center;"}
 
 Ajahn Chah, carinhosamente chamado de “Luang Pó” (venerável pai) por
 seus discípulos, nasceu numa sexta-feira, dia 17 de junho de 1918, num

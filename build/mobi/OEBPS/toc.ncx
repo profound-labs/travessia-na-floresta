@@ -14,81 +14,78 @@
   </docTitle>
   <navMap>
     <navPoint id='nav1' playOrder='1'>
-<navLabel><text>Capa</text></navLabel>
-<content src='Text/cover.xhtml'/></navPoint>
-<navPoint id='nav2' playOrder='2'>
-<navLabel><text>Título</text></navLabel>
-<content src='Text/titlepage.xhtml'/></navPoint>
-<navPoint id='nav3' playOrder='3'>
-<navLabel><text>Conteúdo</text></navLabel>
-<content src='Text/toc.xhtml'/></navPoint>
-<navPoint id='nav4' playOrder='4'>
 <navLabel><text>Prefácio</text></navLabel>
 <content src='Text/preface.xhtml'/></navPoint>
-<navPoint id='nav5' playOrder='5'>
+<navPoint id='nav2' playOrder='2'>
 <navLabel><text>Nota do tradutor</text></navLabel>
 <content src='Text/nota-do-tradutor.xhtml'/></navPoint>
-<navPoint id='nav6' playOrder='6'>
+<navPoint id='nav3' playOrder='3'>
 <navLabel><text></text></navLabel>
 <content src='Text/quote-snp-319.xhtml'/></navPoint>
-<navPoint id='nav7' playOrder='7'>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='Text/titlepage.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Conteúdo</text></navLabel>
+<content src='Text/toc.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
 <navLabel><text>Infância</text></navLabel>
 <content src='Text/infancia.xhtml'/></navPoint>
-<navPoint id='nav8' playOrder='8'>
+<navPoint id='nav7' playOrder='7'>
 <navLabel><text>Vida como bhikkhu</text></navLabel>
 <content src='Text/vida-como-bhikkhu.xhtml'/></navPoint>
-<navPoint id='nav9' playOrder='9'>
+<navPoint id='nav8' playOrder='8'>
 <navLabel><text>Conhecendo novas terras</text></navLabel>
 <content src='Text/conhecendo-novas-terras.xhtml'/></navPoint>
-<navPoint id='nav10' playOrder='10'>
+<navPoint id='nav9' playOrder='9'>
 <navLabel><text>Vida na estrada</text></navLabel>
 <content src='Text/vida-na-estrada.xhtml'/></navPoint>
-<navPoint id='nav11' playOrder='11'>
+<navPoint id='nav10' playOrder='10'>
 <navLabel><text>Luang Pu Man Bhūridatto</text></navLabel>
 <content src='Text/luang-pu-man.xhtml'/></navPoint>
-<navPoint id='nav12' playOrder='12'>
+<navPoint id='nav11' playOrder='11'>
 <navLabel><text>Vencendo o medode fantasmas</text></navLabel>
 <content src='Text/vencendo-o-medo.xhtml'/></navPoint>
-<navPoint id='nav13' playOrder='13'>
+<navPoint id='nav12' playOrder='12'>
 <navLabel><text>Luang Pu Kinari</text></navLabel>
 <content src='Text/luang-pu-kinari.xhtml'/></navPoint>
-<navPoint id='nav14' playOrder='14'>
+<navPoint id='nav13' playOrder='13'>
 <navLabel><text>De volta à estrada</text></navLabel>
 <content src='Text/de-volta-a-estrada.xhtml'/></navPoint>
-<navPoint id='nav15' playOrder='15'>
+<navPoint id='nav14' playOrder='14'>
 <navLabel><text>O monge sem raiva</text></navLabel>
 <content src='Text/o-monge-sem-raiva.xhtml'/></navPoint>
-<navPoint id='nav16' playOrder='16'>
+<navPoint id='nav15' playOrder='15'>
 <navLabel><text>Voltando para casa</text></navLabel>
 <content src='Text/voltando-para-casa.xhtml'/></navPoint>
-<navPoint id='nav17' playOrder='17'>
+<navPoint id='nav16' playOrder='16'>
 <navLabel><text>Viagem à região central</text></navLabel>
 <content src='Text/viagem-a-regiao-central.xhtml'/></navPoint>
-<navPoint id='nav18' playOrder='18'>
+<navPoint id='nav17' playOrder='17'>
 <navLabel><text>Estabelecendo Wat Nong Pah Pong</text></navLabel>
 <content src='Text/estabelecendo-wat-nong-pah-pong.xhtml'/></navPoint>
-<navPoint id='nav19' playOrder='19'>
+<navPoint id='nav18' playOrder='18'>
 <navLabel><text>Lidando com obstáculos</text></navLabel>
 <content src='Text/lidando-com-obstaculos.xhtml'/></navPoint>
-<navPoint id='nav20' playOrder='20'>
+<navPoint id='nav19' playOrder='19'>
 <navLabel><text>Treinamentonos primeiros anos</text></navLabel>
 <content src='Text/treinamento-nos-primeiros-anos.xhtml'/></navPoint>
-<navPoint id='nav21' playOrder='21'>
+<navPoint id='nav20' playOrder='20'>
 <navLabel><text>Anos posteriores</text></navLabel>
 <content src='Text/anos-posteriores.xhtml'/></navPoint>
-<navPoint id='nav22' playOrder='22'>
+<navPoint id='nav21' playOrder='21'>
 <navLabel><text>A chegada dos ocidentais</text></navLabel>
 <content src='Text/a-chegada-dos-ocidentais.xhtml'/></navPoint>
-<navPoint id='nav23' playOrder='23'>
+<navPoint id='nav22' playOrder='22'>
 <navLabel><text>Divulgando o Dhammano ocidente</text></navLabel>
 <content src='Text/divulgando-o-dhamma-no-ocidente.xhtml'/></navPoint>
-<navPoint id='nav24' playOrder='24'>
+<navPoint id='nav23' playOrder='23'>
 <navLabel><text>Doença e morte</text></navLabel>
 <content src='Text/doenca-e-morte.xhtml'/></navPoint>
-<navPoint id='nav25' playOrder='25'>
+<navPoint id='nav24' playOrder='24'>
 <navLabel><text>Glossário</text></navLabel>
 <content src='Text/glossary.xhtml'/></navPoint>
-<navPoint id='nav26' playOrder='26'>
+<navPoint id='nav25' playOrder='25'>
 <navLabel><text>Copyright</text></navLabel>
 <content src='Text/copyright.xhtml'/></navPoint>
 

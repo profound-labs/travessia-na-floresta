@@ -1,8 +1,8 @@
-![Aj Chah](../Images/sitting-on-bench.jpeg)
-{:style="text-align: center;"}
-
 A chegada dos ocidentais
 ========================
+
+![Aj Chah](../Images/sitting-on-bench.jpeg)
+{:style="text-align: center;"}
 
 Talvez o que mais ocupasse Luang Pó nos seus últimos anos de vida era a
 presença de homens e mulheres ocidentais que vinham até Wat Nong Pah
