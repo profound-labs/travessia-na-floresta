@@ -683,7 +683,8 @@ Pah Pong e o funeral foi realizado de acordo com os desejos do falecido.
 
 [^9]: Compreensão clara do momento presente (pāli).
 
-[^10]: Esse é um jogo de palavras com os sinônimos “” e “”.
+[^10]: Esse é um jogo de palavras com os sinônimos “*สำรวม*” e
+    “*ระวัง*”.
 
 [^11]: A regra monástica proíbe monges de cavar o solo e cortar plantas.
     O monge achava que os demais não ajudavam na construção porque não

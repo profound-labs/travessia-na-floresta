@@ -268,10 +268,11 @@ Luang Pó subiu a montanha e permaneceu por três noites para poder contar
 o problema que havia encontrado e pedir ajuda a Ajahn Wang. Anos mais
 tarde ele relatou um resumo da conversa que tiveram naquela ocasião:
 
-– Uma vez, quando estava praticando meditação andando, parei e foquei
-minha mente em meu corpo e ele afundou no chão de uma só vez.
+*Ajahn Wang* – Uma vez, quando estava praticando meditação andando,
+parei e foquei minha mente em meu corpo e ele afundou no chão de uma só
+vez.
 
-– O senhor estava ciente de si?
+*Ajahn Chah* – O senhor estava ciente de si?
 
 – Sim, por que não estaria? Ele afundou, foquei minha mente e ele
 continuou afundando, foquei em apenas estar ciente dele afundando e

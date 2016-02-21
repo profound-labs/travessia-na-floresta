@@ -84,7 +84,7 @@
     
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
     
-    <item href="Text/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
+    <item href="Text/cover.xhtml" id="chapter_capa" media-type="application/xhtml+xml" />
     
     <item href="Text/viagem-a-regiao-central.xhtml" id="chapter_viagem-regi-o-central" media-type="application/xhtml+xml" />
     
@@ -108,7 +108,7 @@
     
     <item href="Text/a-chegada-dos-ocidentais.xhtml" id="chapter_a-chegada-dos-ocidentais" media-type="application/xhtml+xml" />
     
-    <item href="Text/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    <item href="Text/toc.xhtml" id="chapter_conte-do" media-type="application/xhtml+xml" />
     
     <item href="Text/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
     
@@ -180,11 +180,11 @@
        -->
   <spine toc="ncx">
     
-    <itemref idref="chapter_cover"  />
+    <itemref idref="chapter_capa"  />
     
     <itemref idref="chapter_title-page"  />
     
-    <itemref idref="chapter_contents"  />
+    <itemref idref="chapter_conte-do"  />
     
     <itemref idref="chapter_pref-cio"  />
     
@@ -247,11 +247,11 @@
        -->
   <guide>
     
-    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+    <reference href="Text/cover.xhtml" title="Capa" type="cover" />
     
     <reference href="Text/titlepage.xhtml" title="Title Page" type="title-page" />
     
-    <reference href="Text/toc.xhtml" title="Contents" type="toc" />
+    <reference href="Text/toc.xhtml" title="Conteúdo" type="toc" />
     
     
     

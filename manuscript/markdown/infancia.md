@@ -306,10 +306,10 @@ buscar o caminho da libertação.
 [^2]: Monge que preside a cerimônia de ordenação monástica (pāli).
 
 [^3]: Aqui há um jogo de palavras: o vocábulo tailandês para filho é
-    “luk” () e a palavra para discípulo é “luksit” (). Além disso, na
-    Tailândia é comum se referir ao Ajahn como “venerável pai”, o que
-    por consequência implica que os discípulos seriam como seus filhos e
-    filhas.
+    “luk” (*ลูก*) e a palavra para discípulo é “luksit” (*ลูกศิษย์*).
+    Além disso, na Tailândia é comum se referir ao Ajahn como “venerável
+    pai”, o que por consequência implica que os discípulos seriam como
+    seus filhos e filhas.
 
 [^4]: Boas qualidades mentais/espirituais, necessárias no caminho para a
     iluminação (pāli).

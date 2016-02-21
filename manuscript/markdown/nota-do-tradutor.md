@@ -16,12 +16,13 @@ maior fidelidade possível ao original. Também adaptei a grafia de nomes
 tailandeses à fonética portuguesa (nomes como Ajahn Mun e Luang Pu
 Kinaree foram escritos como Ajahn Man e Luang Pu Kinari). Um outro
 detalhe que vale a pena mencionar é a escolha de traduzir o termo
-*tudong* () como “peregrinação”. É necessário explicar que, diferente do
-que conhecemos no ocidente, no caso tailandês essa “peregrinação” nem
-sempre almeja ir a um local sagrado ou consiste em “pagar uma promessa”.
-Em geral se trata de um modo de vida: os monges simplesmente vivem como
-andarilhos, treinando a si mesmos a enfrentar todo tipo de dificuldades
-e buscando locais isolados e conducentes à prática de meditação.
+*tudong* (*ธุดงค์*) como “peregrinação”. É necessário explicar que,
+diferente do que conhecemos no ocidente, no caso tailandês essa
+“peregrinação” nem sempre almeja ir a um local sagrado ou consiste em
+“pagar uma promessa”. Em geral se trata de um modo de vida: os monges
+simplesmente vivem como andarilhos, treinando a si mesmos a enfrentar
+todo tipo de dificuldades e buscando locais isolados e conducentes à
+prática de meditação.
 
 O livro não foi composto com o objetivo de ser um documento completo
 sobre a vida e obra de Ajahn Chah – a quantidade de histórias e
@@ -48,8 +49,9 @@ um glossário ao final do texto para auxiliar a compreensão dos termos
 mais difíceis.
 
 O texto aqui contido é uma compilação de várias fontes, mas
-principalmente do livro , escrito por Ajahn Jayasaro; outras fontes
-foram e , ambos escritos por Ajahn Mahā Amón Kemacitto; , por Mitsuo
+principalmente do livro *อุปลมณี*, escrito por Ajahn Jayasaro; outras
+fontes foram *สุภทททานุสสรณ์* e *ใต้ร่มโพธิญาณ*, ambos escritos por
+Ajahn Mahā Amón Kemacitto; *มิขันติคือให้พรแก่ตัวเอง*, por Mitsuo
 Shibaiashi; Still Forest Pool, por Jack Kornfield e Paul Breiter, No
 Worries, por Aruna Publications e diversas gravações de áudio e vídeo
 onde discípulos de Ajahn Chah contavam suas histórias com o mestre.

@@ -239,4 +239,4 @@ seres iluminados.
     publicada aqui. Deixamos a cargo do leitor imaginar uma tradução
     mais apropriada.
 
-[^2]: Em tailandês: .
+[^2]: Em tailandês: *ทรมาน*.

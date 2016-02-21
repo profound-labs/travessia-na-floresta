@@ -14,13 +14,13 @@
   </docTitle>
   <navMap>
     <navPoint id='nav1' playOrder='1'>
-<navLabel><text>Cover</text></navLabel>
+<navLabel><text>Capa</text></navLabel>
 <content src='Text/cover.xhtml'/></navPoint>
 <navPoint id='nav2' playOrder='2'>
 <navLabel><text>Title Page</text></navLabel>
 <content src='Text/titlepage.xhtml'/></navPoint>
 <navPoint id='nav3' playOrder='3'>
-<navLabel><text>Contents</text></navLabel>
+<navLabel><text>Conteúdo</text></navLabel>
 <content src='Text/toc.xhtml'/></navPoint>
 <navPoint id='nav4' playOrder='4'>
 <navLabel><text>Prefácio</text></navLabel>
