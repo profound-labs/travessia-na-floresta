@@ -1,3 +1,6 @@
+![Aj Chah](../Images/sitting-on-bench.jpeg)
+{:style="text-align: center;"}
+
 A chegada dos ocidentais
 ========================
 

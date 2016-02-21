@@ -1,4 +1,7 @@
-EstabelecendoWat Nong Pah Pong
+![Aj Chah](../Images/almsround.jpg)
+{:style="text-align: center;"}
+
+Estabelecendo Wat Nong Pah Pong
 ==============================
 
 A vida de peregrinações que Luang Pó levava acabou em 1954, quando ele

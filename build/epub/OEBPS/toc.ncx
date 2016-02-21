@@ -65,7 +65,7 @@
 <navLabel><text>Viagem à região central</text></navLabel>
 <content src='Text/viagem-a-regiao-central.xhtml'/></navPoint>
 <navPoint id='nav18' playOrder='18'>
-<navLabel><text>EstabelecendoWat Nong Pah Pong</text></navLabel>
+<navLabel><text>Estabelecendo Wat Nong Pah Pong</text></navLabel>
 <content src='Text/estabelecendo-wat-nong-pah-pong.xhtml'/></navPoint>
 <navPoint id='nav19' playOrder='19'>
 <navLabel><text>Lidando com obstáculos</text></navLabel>

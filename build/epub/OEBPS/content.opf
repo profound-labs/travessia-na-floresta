@@ -50,7 +50,7 @@
     
 
     <dc:publisher>Amaravati Publications</dc:publisher>
-    <dc:date opf:event="publication">2016-02-01</dc:date>
+    <dc:date opf:event="publication">2016-02-21</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
     <dc:language>en</dc:language>
@@ -94,7 +94,7 @@
     
     <item href="Text/quote-snp-319.xhtml" id="chapter_" media-type="application/xhtml+xml" />
     
-    <item href="Text/estabelecendo-wat-nong-pah-pong.xhtml" id="chapter_estabelecendowat-nong-pah-pong" media-type="application/xhtml+xml" />
+    <item href="Text/estabelecendo-wat-nong-pah-pong.xhtml" id="chapter_estabelecendo-wat-nong-pah-pong" media-type="application/xhtml+xml" />
     
     <item href="Text/infancia.xhtml" id="chapter_inf-ncia" media-type="application/xhtml+xml" />
     
@@ -138,23 +138,15 @@
     
     <item href="Images/profile-crop-2.jpg" id="images-profile-crop-2-jpg" media-type="image/jpeg" />
     
-    <item href="Images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
-    
     <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
     
-    <item href="Images/sitting-in-kuti-crop.jpg" id="images-sitting-in-kuti-crop-jpg" media-type="image/jpeg" />
+    <item href="Images/abm-pubs-logo_ebook.png" id="images-abm-pubs-logo-ebook-png" media-type="image/png" />
     
     <item href="Images/almsround.jpeg" id="images-almsround-jpeg" media-type="image/jpeg" />
-    
-    <item href="Images/profile.jpeg" id="images-profile-jpeg" media-type="image/jpeg" />
-    
-    <item href="Images/sitting-in-kuti.jpeg" id="images-sitting-in-kuti-jpeg" media-type="image/jpeg" />
     
     <item href="Images/CCLogo.jpg" id="images-cclogo-jpg" media-type="image/jpeg" />
     
     <item href="Images/sitting-in-kuti-crop-2.jpg" id="images-sitting-in-kuti-crop-2-jpg" media-type="image/jpeg" />
-    
-    <item href="Images/profile-crop.jpg" id="images-profile-crop-jpg" media-type="image/jpeg" />
     
     <item href="Images/sitting-on-bench.jpeg" id="images-sitting-on-bench-jpeg" media-type="image/jpeg" />
     
@@ -214,7 +206,7 @@
     
     <itemref idref="chapter_viagem-regi-o-central"  />
     
-    <itemref idref="chapter_estabelecendowat-nong-pah-pong"  />
+    <itemref idref="chapter_estabelecendo-wat-nong-pah-pong"  />
     
     <itemref idref="chapter_lidando-com-obst-culos"  />
     

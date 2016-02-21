@@ -240,3 +240,6 @@ seres iluminados.
     mais apropriada.
 
 [^2]: Em tailandês: *ทรมาน*.
+
+![Aj Chah](../Images/profile-crop-2.jpg)
+{:style="text-align: center;"}

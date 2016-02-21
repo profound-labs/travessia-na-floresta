@@ -1,4 +1,4 @@
-date: 2016-02-01
+date: 2016-02-21
 version: 'v1.0'
 
 # Epub and Mobi
@@ -6,14 +6,7 @@ version: 'v1.0'
 
 bookid: "TravessiaNaFlorestaBookId"
 
-# Level 1, 2, 3
-#section_names: [ "", "", "" ]
-#show_chapter_name: true
-#chapter_number_format: roman
-
-# TODO: PT titles
-
-# TODO: images
+# TODO: cover
 
 toc:
   - { the_matter: frontmatter }

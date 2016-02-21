@@ -1,3 +1,6 @@
+![Aj Chah](../Images/sitting-in-kuti-crop-2.jpg)
+{:style="text-align: center;"}
+
 Infância
 ========
 
