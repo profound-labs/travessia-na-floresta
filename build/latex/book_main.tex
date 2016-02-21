@@ -3,7 +3,7 @@
   pagePreset=largepage,
   babelLanguage=portuguese,
   %showtrims,% necessary for print b/c of the images.
-  %webversion,
+  webversion,
 ]{anecdote}
 
 \usepackage{local}
@@ -32,15 +32,17 @@
 
 \ifwebversion
 \webcover{%
-\includegraphics[height=\paperheight]{./webcover.jpg}%
+\includegraphics[height=\paperheight]{webcover}%
 }
 \fi
 
-\frontmatter
-
+\ifwebversion\else
 \input{../.././manuscript/tex/titlepage.tex}
+\fi
 
 \input{../.././manuscript/tex/copyright.tex}
+
+\frontmatter
 
 \chapterstyle{shedir-toc}
 
