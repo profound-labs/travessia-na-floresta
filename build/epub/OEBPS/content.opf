@@ -48,6 +48,10 @@
     <dc:contributor opf:file-as="Mudito, Ajahn" opf:role="trl">Ajahn Mudito</dc:contributor>
     
     
+    
+    <dc:contributor opf:file-as="Gambhiro, Bhikkhu" opf:role="bkd">Bhikkhu Gambhiro</dc:contributor>
+    
+    
 
     <dc:publisher>Amaravati Publications</dc:publisher>
     <dc:date opf:event="publication">2016-02-21</dc:date>
@@ -138,17 +142,17 @@
     
     <item href="Images/profile-crop-2.jpg" id="images-profile-crop-2-jpg" media-type="image/jpeg" />
     
+    <item href="Images/sitting-on-bench.jpg" id="images-sitting-on-bench-jpg" media-type="image/jpeg" />
+    
     <item href="Images/abm-pubs-logo_ebook.png" id="images-abm-pubs-logo-ebook-png" media-type="image/png" />
     
     <item href="Images/ebook-cover.jpg" id="cover-image" media-type="image/jpeg" />
-    
-    <item href="Images/almsround.jpeg" id="images-almsround-jpeg" media-type="image/jpeg" />
     
     <item href="Images/CCLogo.jpg" id="images-cclogo-jpg" media-type="image/jpeg" />
     
     <item href="Images/sitting-in-kuti-crop-2.jpg" id="images-sitting-in-kuti-crop-2-jpg" media-type="image/jpeg" />
     
-    <item href="Images/sitting-on-bench.jpeg" id="images-sitting-on-bench-jpeg" media-type="image/jpeg" />
+    <item href="Images/almsround.jpg" id="images-almsround-jpg" media-type="image/jpeg" />
     
   </manifest>
 
