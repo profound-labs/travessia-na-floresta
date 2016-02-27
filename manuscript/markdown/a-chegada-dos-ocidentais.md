@@ -232,7 +232,7 @@ acabado de ler essa mesma história numa tradução tailandesa dos
 ensinamentos de Hui Neng.
 
 Além de lidar com monges estrangeiros, Luang Pó também tinha muito
-contato com leigos ocidentais. Naquela época, uma mulher de origem
+contato com leigos ocidentais. Naquela época, uma mulher dava palestras e escrevia livros bastante populares sobre o
 europeia dava palestras e escrevia livros bastante populares sobre o
 Abhidhamma. Uma vez ela foi visitar Wat Nong Pah Pong e queria conhecer
 Ajahn Chah. Aparentemente achou que seria uma boa ideia dar a ele uma

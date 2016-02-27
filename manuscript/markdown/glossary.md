@@ -95,7 +95,7 @@ recitar cânticos, oferecer flores, velas, incenso, etc.
 **Sāmanera**, *pāli*. Um monge noviço.
 
 **Samsāra**, *pāli*. O ciclo de nascimento e morte onde estão presos todos aqueles que ainda
-não alcançaram nirvana.
+não alcançaram Nibbāna.
 
 **Sangha**, *pāli*. Nome normalmente utilizado para se referir à comunidade de monges
 budistas.

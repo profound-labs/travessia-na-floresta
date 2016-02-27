@@ -149,7 +149,7 @@ resultados.”
 Pergunta: “Você é um *arahant*?”
 
 Luang Pó: “Sua pergunta é digna de resposta e vou responder da seguinte
-maneira: sou como uma árvore na floresta. Pássaros veem à árvore,
+maneira: sou como uma árvore na floresta. Pássaros vêm à árvore,
 sentam-se em seus galhos e comem seus frutos. Para os pássaros, os
 frutos podem ser doces ou azedos, ou o que seja, mas a árvore não tem
 nada a ver com isso. Os pássaros dizem ‘doce’, ou dizem ‘azedo’ - do

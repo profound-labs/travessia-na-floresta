@@ -474,7 +474,7 @@ entre todos e o sistema utilizado era oferecer primeiro a comida aos
 monges mais velhos e então para os demais, de acordo com o tempo de vida
 monástica de cada um. Para esse propósito, quando voltavam de
 *pindapāta*, todos os monges esvaziavam o conteúdo de suas tigelas em
-bacias, mantendo consigo somente a arroz puro. Naquele dia, um jovem
+em bacias, mantendo consigo somente arroz puro. Naquele dia, um jovem
 monge havia recebido um ovo cozido como esmola e provavelmente não quis
 reparti-lo com os demais, então resolveu escondê-lo dentro de uma bola
 de arroz grudento.[^9] Curiosamente, justamente naquele dia Luang Pó
