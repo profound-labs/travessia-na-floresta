@@ -6,6 +6,9 @@ version: 'v1.0'
 
 bookid: "TravessiaNaFlorestaBookId"
 
+# Level 1, 2, 3
+section_names: [ "Capítulo", "", "" ]
+
 toc:
   - { the_matter: frontmatter }
   - { target: epub, title: "Capa", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
@@ -44,4 +47,5 @@ source: http://fsbooks.org
 
 contributors:
   - trl: Mudito, Ajahn
+  - bkd: Gambhiro, Bhikkhu
 

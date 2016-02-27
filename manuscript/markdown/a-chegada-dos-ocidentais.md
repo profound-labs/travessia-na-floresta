@@ -1,7 +1,7 @@
 A chegada dos ocidentais
 ========================
 
-![Aj Chah](../Images/sitting-on-bench.jpeg)
+![Aj Chah](../Images/sitting-on-bench.jpg)
 {:style="text-align: center;"}
 
 Talvez o que mais ocupasse Luang Pó nos seus últimos anos de vida era a
