@@ -42,6 +42,8 @@ toc:
   - glossary.md
   - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }
 
+lang: pt
+
 subject: RELIGION / Buddhism / Theravada
 source: http://fsbooks.org
 
